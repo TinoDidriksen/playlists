@@ -6,4 +6,7 @@ chmod 0664 *.xml
 rm -fv *.bak
 git add *.xml
 git commit -m "$D"
+git reflog expire --expire=now --all
+git repack -ad
+git prune
 git push -u origin master
