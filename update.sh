@@ -9,4 +9,4 @@ git commit -m "$D"
 git reflog expire --expire=now --all
 git repack -ad
 git prune
-git push -u origin master
+git push -u origin main
