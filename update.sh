@@ -4,6 +4,7 @@ cp -av /cygdrive/c/Documents/Google\ Drive/Music/iTunes/*.xml ./
 perl -pe 's/\r\n/\n/g;' -i 'iTunes Music Library.xml'
 chmod 0664 *.xml
 rm -fv *.bak
+./normalize.php > new.xml && mv -v new.xml 'iTunes Music Library.xml'
 git add *.xml
 git commit -m "$D"
 git reflog expire --expire=now --all
