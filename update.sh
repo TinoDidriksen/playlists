@@ -1,6 +1,6 @@
 #!/bin/bash
 D=`date -u '+%Y-%m-%d %H:%M:%S'`
-cp -av /cygdrive/c/Documents/Google\ Drive/Music/iTunes/*.xml ./
+cp -av /cygdrive/c/Documents/OneDrive/Media/Music/iTunes/*.xml ./
 perl -pe 's/\r\n/\n/g;' -i 'iTunes Music Library.xml'
 chmod 0664 *.xml
 rm -fv *.bak
