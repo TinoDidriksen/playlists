@@ -5,7 +5,7 @@
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
 	<key>Application Version</key><string>12.13.10.3</string>
-	<key>Date</key><date>2026-08-19T10:35:22Z</date>
+	<key>Date</key><date>2026-08-19T21:26:21Z</date>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Library Persistent ID</key><string>B0FD39992206DAB6</string>
@@ -2051,15 +2051,15 @@
 		<key>weGxMbm5</key>
 		<dict>
 			<key>Track ID</key><integer>weGxMbm5</integer>
-			<key>Size</key><integer>10326627</integer>
+			<key>Size</key><integer>10326622</integer>
 			<key>Total Time</key><integer>283000</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2023-03-24T08:41:36Z</date>
-			<key>Date Added</key><date>2023-03-24T08:41:36Z</date>
+			<key>Date Modified</key><date>2023-03-24T09:41:36Z</date>
+			<key>Date Added</key><date>2023-03-24T09:41:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -2252,11 +2252,11 @@
 		<dict>
 			<key>Track ID</key><integer>1L16xgx4</integer>
 			<key>Size</key><integer>3285698</integer>
-			<key>Total Time</key><integer>205733</integer>
+			<key>Total Time</key><integer>205740</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2004-11-14T14:02:16Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2004-11-14T15:02:16Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>36</integer>
 			<key>Play Date</key><integer>3869377316</integer>
@@ -2836,8 +2836,8 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2020-03-18T16:39:37Z</date>
-			<key>Date Added</key><date>2020-03-18T16:39:37Z</date>
+			<key>Date Modified</key><date>2020-03-18T17:39:37Z</date>
+			<key>Date Added</key><date>2020-03-18T17:39:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -2944,8 +2944,8 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2020-03-18T17:39:37Z</date>
-			<key>Date Added</key><date>2020-03-18T16:39:37Z</date>
+			<key>Date Modified</key><date>2020-03-18T18:39:37Z</date>
+			<key>Date Added</key><date>2020-03-18T17:39:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
@@ -3160,8 +3160,8 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2020-03-18T16:39:37Z</date>
-			<key>Date Added</key><date>2020-03-18T16:39:37Z</date>
+			<key>Date Modified</key><date>2020-03-18T17:39:37Z</date>
+			<key>Date Added</key><date>2020-03-18T17:39:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -3444,14 +3444,14 @@
 		<dict>
 			<key>Track ID</key><integer>KdDhZe6W</integer>
 			<key>Size</key><integer>12648455</integer>
-			<key>Total Time</key><integer>365196</integer>
+			<key>Total Time</key><integer>365197</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2020-03-18T16:39:37Z</date>
-			<key>Date Added</key><date>2020-03-18T16:39:37Z</date>
+			<key>Date Modified</key><date>2020-03-18T17:39:37Z</date>
+			<key>Date Added</key><date>2020-03-18T17:39:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>24</integer>
@@ -6010,8 +6010,8 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>31</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2022-05-01T14:19:06Z</date>
-			<key>Date Added</key><date>2022-05-01T14:19:06Z</date>
+			<key>Date Modified</key><date>2022-05-01T15:19:06Z</date>
+			<key>Date Added</key><date>2022-05-01T15:19:06Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -6185,8 +6185,8 @@
 			<key>Track Number</key><integer>20</integer>
 			<key>Track Count</key><integer>31</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2022-05-01T14:19:06Z</date>
-			<key>Date Added</key><date>2022-05-01T14:19:06Z</date>
+			<key>Date Modified</key><date>2022-05-01T15:19:06Z</date>
+			<key>Date Added</key><date>2022-05-01T15:19:06Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -6394,11 +6394,11 @@
 		<dict>
 			<key>Track ID</key><integer>6YU9O2iZ</integer>
 			<key>Size</key><integer>5236096</integer>
-			<key>Total Time</key><integer>161429</integer>
+			<key>Total Time</key><integer>161462</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2018-09-10T21:47:19Z</date>
-			<key>Date Added</key><date>2018-01-12T21:22:45Z</date>
+			<key>Date Modified</key><date>2018-09-10T22:47:19Z</date>
+			<key>Date Added</key><date>2018-01-12T22:22:45Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
@@ -6813,11 +6813,11 @@
 		<dict>
 			<key>Track ID</key><integer>h0I6idQv</integer>
 			<key>Size</key><integer>6830570</integer>
-			<key>Total Time</key><integer>211055</integer>
+			<key>Total Time</key><integer>211095</integer>
 			<key>Track Number</key><integer>24</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2018-09-10T21:47:14Z</date>
-			<key>Date Added</key><date>2018-01-12T21:22:45Z</date>
+			<key>Date Modified</key><date>2018-09-10T22:47:14Z</date>
+			<key>Date Added</key><date>2018-01-12T22:22:45Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>24</integer>
@@ -6870,8 +6870,8 @@
 			<key>Total Time</key><integer>240039</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2018-01-12T22:30:29Z</date>
-			<key>Date Added</key><date>2018-01-12T22:22:45Z</date>
+			<key>Date Modified</key><date>2018-01-12T23:30:29Z</date>
+			<key>Date Added</key><date>2018-01-12T23:22:45Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>35</integer>
@@ -6946,11 +6946,11 @@
 		<dict>
 			<key>Track ID</key><integer>Wweedi3j</integer>
 			<key>Size</key><integer>4940699</integer>
-			<key>Total Time</key><integer>152236</integer>
+			<key>Total Time</key><integer>152267</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2018-09-10T21:47:17Z</date>
-			<key>Date Added</key><date>2018-01-12T21:22:45Z</date>
+			<key>Date Modified</key><date>2018-09-10T22:47:17Z</date>
+			<key>Date Added</key><date>2018-01-12T22:22:45Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>33</integer>
@@ -7310,7 +7310,7 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>2014</integer>
 			<key>Date Modified</key><date>2018-01-12T22:29:44Z</date>
-			<key>Date Added</key><date>2018-01-12T22:22:45Z</date>
+			<key>Date Added</key><date>2018-01-12T23:22:45Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>32</integer>
@@ -7334,14 +7334,14 @@
 		<dict>
 			<key>Track ID</key><integer>T6NbE1iZ</integer>
 			<key>Size</key><integer>3503853</integer>
-			<key>Total Time</key><integer>90782</integer>
+			<key>Total Time</key><integer>90783</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>2019</integer>
-			<key>Date Modified</key><date>2023-05-12T06:16:49Z</date>
-			<key>Date Added</key><date>2023-05-12T06:16:49Z</date>
+			<key>Date Modified</key><date>2023-05-12T07:16:49Z</date>
+			<key>Date Added</key><date>2023-05-12T07:16:49Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -7546,14 +7546,14 @@
 		<dict>
 			<key>Track ID</key><integer>fPgjmHYg</integer>
 			<key>Size</key><integer>8579163</integer>
-			<key>Total Time</key><integer>235384</integer>
+			<key>Total Time</key><integer>235385</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>2019</integer>
-			<key>Date Modified</key><date>2023-05-12T06:16:49Z</date>
-			<key>Date Added</key><date>2023-05-12T06:16:49Z</date>
+			<key>Date Modified</key><date>2023-05-12T07:16:49Z</date>
+			<key>Date Added</key><date>2023-05-12T07:16:49Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>17</integer>
@@ -9377,7 +9377,7 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Year</key><integer>2011</integer>
 			<key>Date Modified</key><date>2019-11-01T17:23:23Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>257</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>31</integer>
@@ -9607,7 +9607,7 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>2011</integer>
 			<key>Date Modified</key><date>2019-11-01T17:23:13Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>269</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>30</integer>
@@ -9862,14 +9862,14 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>2017</integer>
 			<key>Date Modified</key><date>2019-11-01T17:23:48Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>247</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>30</integer>
 			<key>Play Date</key><integer>3869378202</integer>
 			<key>Play Date UTC</key><date>2026-08-12T09:16:42Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2022-04-18T15:52:01Z</date>
+			<key>Skip Date</key><date>2022-04-18T16:52:01Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -9981,14 +9981,14 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>2011</integer>
 			<key>Date Modified</key><date>2019-11-01T17:24:08Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>271</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
 			<key>Play Date</key><integer>3869921386</integer>
 			<key>Play Date UTC</key><date>2026-08-18T16:09:46Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2023-06-02T09:56:59Z</date>
+			<key>Skip Date</key><date>2023-06-02T10:56:59Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -10279,7 +10279,7 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Year</key><integer>2011</integer>
 			<key>Date Modified</key><date>2019-11-01T17:23:28Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>269</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
@@ -10453,7 +10453,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2019-11-01T17:23:16Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>266</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>24</integer>
@@ -10596,7 +10596,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2017-10-12T11:17:18Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>266</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
@@ -10714,7 +10714,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2017-10-12T11:17:59Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>261</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>30</integer>
@@ -10828,7 +10828,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2017-10-12T11:17:59Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>272</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>31</integer>
@@ -11047,7 +11047,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2013</integer>
 			<key>Date Modified</key><date>2019-11-01T17:24:06Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>250</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
@@ -12125,14 +12125,14 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2015</integer>
 			<key>Date Modified</key><date>2019-11-01T17:24:00Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>35</integer>
 			<key>Play Date</key><integer>3869221377</integer>
 			<key>Play Date UTC</key><date>2026-08-10T13:42:57Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2023-06-28T12:52:01Z</date>
+			<key>Skip Date</key><date>2023-06-28T13:52:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -12187,7 +12187,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2015</integer>
 			<key>Date Modified</key><date>2019-11-01T17:24:00Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>286</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>28</integer>
@@ -12496,7 +12496,7 @@
 			<key>Total Time</key><integer>298135</integer>
 			<key>Year</key><integer>2013</integer>
 			<key>Date Modified</key><date>2017-10-12T11:20:29Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>271</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
@@ -12522,7 +12522,7 @@
 			<key>Total Time</key><integer>83617</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2017-10-12T11:16:33Z</date>
-			<key>Date Added</key><date>2017-10-11T23:31:38Z</date>
+			<key>Date Added</key><date>2017-10-12T00:31:38Z</date>
 			<key>Bit Rate</key><integer>259</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>35</integer>
@@ -13743,7 +13743,7 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>Date Modified</key><date>2014-05-22T13:45:56Z</date>
-			<key>Date Added</key><date>2014-05-22T14:38:02Z</date>
+			<key>Date Added</key><date>2014-05-22T15:38:02Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>37</integer>
@@ -14590,18 +14590,18 @@
 			<key>Sort Album</key><string>Astray. - Single</string>
 			<key>Sort Artist</key><string>Blocktane &#38; Nitewalk</string>
 		</dict>
-		<key>QBdKyA9h</key>
+		<key>SuzzwhzO</key>
 		<dict>
-			<key>Track ID</key><integer>QBdKyA9h</integer>
-			<key>Size</key><integer>10499787</integer>
+			<key>Track ID</key><integer>SuzzwhzO</integer>
+			<key>Size</key><integer>10613244</integer>
 			<key>Total Time</key><integer>298882</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2015</integer>
-			<key>Date Modified</key><date>2020-12-28T15:58:09Z</date>
-			<key>Date Added</key><date>2020-12-28T15:58:09Z</date>
+			<key>Date Modified</key><date>2020-12-28T16:58:09Z</date>
+			<key>Date Added</key><date>2020-12-28T16:58:09Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -14613,15 +14613,15 @@
 			<key>Persistent ID</key><string>4B1EB71C9C9411DA</string>
 			<key>Track Type</key><string>Remote</string>
 			<key>Apple Music</key><true/>
-			<key>Name</key><string>Eyes on Fire (feat. Kirstine Stubbe Teglbjærg) [Re-Recorded]</string>
+			<key>Name</key><string>Eyes on Fire (feat. Kirstine Stubbe Teglbjærg) [Blue Foundation Version]</string>
 			<key>Artist</key><string>Blue Foundation</string>
 			<key>Album Artist</key><string>Blue Foundation</string>
 			<key>Composer</key><string>Kirstine Stubbe Teglbjærg, TOBIAS WILNER &#38; Bo Rande</string>
-			<key>Album</key><string>Eyes on Fire (feat. Kirstine Stubbe Teglbjærg) - Single</string>
-			<key>Genre</key><string>Alternative</string>
+			<key>Album</key><string>Eyes on Fire (Blue Foundation Version) [feat. Kirstine Stubbe Teglbjærg] - Single</string>
+			<key>Genre</key><string>Pop</string>
 			<key>Kind</key><string>Apple Music AAC audio file</string>
-			<key>Sort Name</key><string>Eyes on Fire (feat. Kirstine Stubbe Teglbjærg) [Re-Recorded]</string>
-			<key>Sort Album</key><string>Eyes on Fire (feat. Kirstine Stubbe Teglbjærg) - Single</string>
+			<key>Sort Name</key><string>Eyes on Fire (feat. Kirstine Stubbe Teglbjærg) [Blue Foundation Version]</string>
+			<key>Sort Album</key><string>Eyes on Fire (Blue Foundation Version) [feat. Kirstine Stubbe Teglbjærg] - Single</string>
 			<key>Sort Artist</key><string>Blue Foundation</string>
 		</dict>
 		<key>nbuTHumV</key>
@@ -16039,21 +16039,21 @@
 		<dict>
 			<key>Track ID</key><integer>Nexkn9w1</integer>
 			<key>Size</key><integer>3025549</integer>
-			<key>Total Time</key><integer>75626</integer>
+			<key>Total Time</key><integer>75627</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1998</integer>
-			<key>Date Modified</key><date>2019-11-06T13:15:59Z</date>
-			<key>Date Added</key><date>2019-11-06T13:15:59Z</date>
+			<key>Date Modified</key><date>2019-11-06T14:15:59Z</date>
+			<key>Date Added</key><date>2019-11-06T14:15:59Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
 			<key>Play Date</key><integer>3869905870</integer>
 			<key>Play Date UTC</key><date>2026-08-18T11:51:10Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2025-06-22T13:49:59Z</date>
+			<key>Skip Date</key><date>2025-06-22T14:49:59Z</date>
 			<key>Release Date</key><date>1998-04-20T07:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -16181,21 +16181,21 @@
 		<dict>
 			<key>Track ID</key><integer>TFNTNDsJ</integer>
 			<key>Size</key><integer>12917097</integer>
-			<key>Total Time</key><integer>347466</integer>
+			<key>Total Time</key><integer>347467</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2019-11-06T13:16:04Z</date>
-			<key>Date Added</key><date>2019-11-06T13:16:04Z</date>
+			<key>Date Modified</key><date>2019-11-06T14:16:04Z</date>
+			<key>Date Added</key><date>2019-11-06T14:16:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
 			<key>Play Date</key><integer>3869899793</integer>
 			<key>Play Date UTC</key><date>2026-08-18T10:09:53Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2023-08-08T09:42:03Z</date>
+			<key>Skip Date</key><date>2023-08-08T10:42:03Z</date>
 			<key>Release Date</key><date>2005-10-15T12:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -17580,14 +17580,14 @@
 		<dict>
 			<key>Track ID</key><integer>pzgp4ZAK</integer>
 			<key>Size</key><integer>10353789</integer>
-			<key>Total Time</key><integer>295975</integer>
+			<key>Total Time</key><integer>295976</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2023-03-07T14:27:58Z</date>
-			<key>Date Added</key><date>2023-03-07T14:27:58Z</date>
+			<key>Date Modified</key><date>2023-03-07T15:27:58Z</date>
+			<key>Date Added</key><date>2023-03-07T15:27:58Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -18000,14 +18000,14 @@
 		<dict>
 			<key>Track ID</key><integer>jdGIRdhx</integer>
 			<key>Size</key><integer>12755014</integer>
-			<key>Total Time</key><integer>366562</integer>
+			<key>Total Time</key><integer>366563</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2023-03-07T14:27:59Z</date>
-			<key>Date Added</key><date>2023-03-07T14:27:59Z</date>
+			<key>Date Modified</key><date>2023-03-07T15:27:59Z</date>
+			<key>Date Added</key><date>2023-03-07T15:27:59Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -18510,7 +18510,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2011</integer>
 			<key>Date Modified</key><date>2019-11-01T17:23:24Z</date>
-			<key>Date Added</key><date>2013-01-20T05:03:50Z</date>
+			<key>Date Added</key><date>2013-01-20T06:03:50Z</date>
 			<key>Bit Rate</key><integer>197</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
@@ -19268,7 +19268,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>7</integer>
 			<key>Date Modified</key><date>2005-05-15T20:26:46Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>32</integer>
@@ -19295,14 +19295,14 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>7</integer>
 			<key>Date Modified</key><date>2005-05-15T20:25:26Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>33</integer>
 			<key>Play Date</key><integer>3869898242</integer>
 			<key>Play Date UTC</key><date>2026-08-18T09:44:02Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2022-10-31T08:44:27Z</date>
+			<key>Skip Date</key><date>2022-10-31T09:44:27Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Persistent ID</key><string>99D783C990E935A6</string>
@@ -19496,8 +19496,8 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>5</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2021-09-14T08:24:53Z</date>
-			<key>Date Added</key><date>2021-09-14T08:24:53Z</date>
+			<key>Date Modified</key><date>2021-09-14T09:24:53Z</date>
+			<key>Date Added</key><date>2021-09-14T09:24:53Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -21228,7 +21228,7 @@
 			<key>Size</key><integer>6570847</integer>
 			<key>Total Time</key><integer>346056</integer>
 			<key>Date Modified</key><date>2014-11-24T18:28:23Z</date>
-			<key>Date Added</key><date>2014-11-26T11:44:50Z</date>
+			<key>Date Added</key><date>2014-11-26T12:44:50Z</date>
 			<key>Bit Rate</key><integer>151</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>43</integer>
@@ -21769,14 +21769,14 @@
 			<key>Size</key><integer>6570220</integer>
 			<key>Total Time</key><integer>337200</integer>
 			<key>Date Modified</key><date>2014-11-24T18:29:39Z</date>
-			<key>Date Added</key><date>2014-11-26T11:44:50Z</date>
+			<key>Date Added</key><date>2014-11-26T12:44:50Z</date>
 			<key>Bit Rate</key><integer>155</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>39</integer>
 			<key>Play Date</key><integer>3869909409</integer>
 			<key>Play Date UTC</key><date>2026-08-18T12:50:09Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2023-09-12T11:27:33Z</date>
+			<key>Skip Date</key><date>2023-09-12T12:27:33Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Persistent ID</key><string>57CDD2526547F6ED</string>
@@ -21843,7 +21843,7 @@
 			<key>Size</key><integer>5987530</integer>
 			<key>Total Time</key><integer>306048</integer>
 			<key>Date Modified</key><date>2014-11-26T13:07:45Z</date>
-			<key>Date Added</key><date>2014-11-26T11:44:50Z</date>
+			<key>Date Added</key><date>2014-11-26T12:44:50Z</date>
 			<key>Bit Rate</key><integer>156</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>36</integer>
@@ -21989,7 +21989,7 @@
 			<key>Size</key><integer>5677088</integer>
 			<key>Total Time</key><integer>296112</integer>
 			<key>Date Modified</key><date>2014-11-24T18:30:53Z</date>
-			<key>Date Added</key><date>2014-11-26T11:44:50Z</date>
+			<key>Date Added</key><date>2014-11-26T12:44:50Z</date>
 			<key>Bit Rate</key><integer>153</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>38</integer>
@@ -22609,7 +22609,7 @@
 			<key>Size</key><integer>4844483</integer>
 			<key>Total Time</key><integer>248528</integer>
 			<key>Date Modified</key><date>2014-11-24T18:32:55Z</date>
-			<key>Date Added</key><date>2014-11-26T11:44:50Z</date>
+			<key>Date Added</key><date>2014-11-26T12:44:50Z</date>
 			<key>Bit Rate</key><integer>155</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>35</integer>
@@ -24417,8 +24417,8 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2019</integer>
-			<key>Date Modified</key><date>2026-02-26T09:20:25Z</date>
-			<key>Date Added</key><date>2026-02-26T09:20:25Z</date>
+			<key>Date Modified</key><date>2026-02-26T10:20:25Z</date>
+			<key>Date Added</key><date>2026-02-26T10:20:25Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -24519,7 +24519,7 @@
 		<dict>
 			<key>Track ID</key><integer>Dw15TqgJ</integer>
 			<key>Size</key><integer>11093424</integer>
-			<key>Total Time</key><integer>305034</integer>
+			<key>Total Time</key><integer>305035</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -24622,7 +24622,7 @@
 		<dict>
 			<key>Track ID</key><integer>SdTb1xQI</integer>
 			<key>Size</key><integer>9749659</integer>
-			<key>Total Time</key><integer>276319</integer>
+			<key>Total Time</key><integer>276320</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -29103,8 +29103,8 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2022-09-01T08:07:46Z</date>
-			<key>Date Added</key><date>2022-09-01T08:07:46Z</date>
+			<key>Date Modified</key><date>2022-09-01T09:07:46Z</date>
+			<key>Date Added</key><date>2022-09-01T09:07:46Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -29245,8 +29245,8 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Track Count</key><integer>29</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2022-09-01T08:07:46Z</date>
-			<key>Date Added</key><date>2022-09-01T08:07:46Z</date>
+			<key>Date Modified</key><date>2022-09-01T09:07:46Z</date>
+			<key>Date Added</key><date>2022-09-01T09:07:46Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -29274,14 +29274,14 @@
 		<dict>
 			<key>Track ID</key><integer>zSBb1ETn</integer>
 			<key>Size</key><integer>11364692</integer>
-			<key>Total Time</key><integer>319957</integer>
+			<key>Total Time</key><integer>319958</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>29</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2022-09-01T08:07:46Z</date>
-			<key>Date Added</key><date>2022-09-01T08:07:46Z</date>
+			<key>Date Modified</key><date>2022-09-01T09:07:46Z</date>
+			<key>Date Added</key><date>2022-09-01T09:07:46Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -33199,14 +33199,14 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Year</key><integer>2017</integer>
 			<key>Date Modified</key><date>2018-09-10T21:47:56Z</date>
-			<key>Date Added</key><date>2018-04-16T10:01:07Z</date>
+			<key>Date Added</key><date>2018-04-16T11:01:07Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
 			<key>Play Date</key><integer>3869483412</integer>
 			<key>Play Date UTC</key><date>2026-08-13T14:30:12Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2025-10-16T14:30:33Z</date>
+			<key>Skip Date</key><date>2025-10-16T15:30:33Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -35498,14 +35498,14 @@
 		<dict>
 			<key>Track ID</key><integer>NSqOj2Az</integer>
 			<key>Size</key><integer>3010503</integer>
-			<key>Total Time</key><integer>75862</integer>
+			<key>Total Time</key><integer>75863</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2024-11-19T15:24:25Z</date>
-			<key>Date Added</key><date>2024-11-19T15:24:25Z</date>
+			<key>Date Modified</key><date>2024-11-19T16:24:25Z</date>
+			<key>Date Added</key><date>2024-11-19T16:24:25Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>9</integer>
@@ -35822,14 +35822,14 @@
 		<dict>
 			<key>Track ID</key><integer>Bhz8CsVj</integer>
 			<key>Size</key><integer>4449268</integer>
-			<key>Total Time</key><integer>107925</integer>
+			<key>Total Time</key><integer>107926</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-11-19T15:25:08Z</date>
-			<key>Date Added</key><date>2024-11-19T15:25:08Z</date>
+			<key>Date Modified</key><date>2024-11-19T16:25:08Z</date>
+			<key>Date Added</key><date>2024-11-19T16:25:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>9</integer>
@@ -36613,7 +36613,7 @@
 			<key>Total Time</key><integer>349178</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Date Modified</key><date>2014-11-24T18:34:55Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>197</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>37</integer>
@@ -38553,8 +38553,8 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2024-11-04T15:30:23Z</date>
-			<key>Date Added</key><date>2024-11-04T15:30:23Z</date>
+			<key>Date Modified</key><date>2024-11-04T16:30:23Z</date>
+			<key>Date Added</key><date>2024-11-04T16:30:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -38574,7 +38574,7 @@
 			<key>Album Artist</key><string>Various Artists</string>
 			<key>Composer</key><string>Glenn Stafford</string>
 			<key>Album</key><string>World of Warcraft: Dragonflight</string>
-			<key>Genre</key><string>Soundtrack</string>
+			<key>Genre</key><string>Video Game</string>
 			<key>Kind</key><string>Apple Music AAC audio file</string>
 			<key>Sort Name</key><string>Frostlands</string>
 			<key>Sort Album</key><string>World of Warcraft: Dragonflight</string>
@@ -39119,8 +39119,8 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2022-11-07T10:32:19Z</date>
-			<key>Date Added</key><date>2022-11-07T10:32:19Z</date>
+			<key>Date Modified</key><date>2022-11-07T11:32:19Z</date>
+			<key>Date Added</key><date>2022-11-07T11:32:19Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -39535,14 +39535,14 @@
 			<key>Track Count</key><integer>5</integer>
 			<key>Year</key><integer>2006</integer>
 			<key>Date Modified</key><date>2019-09-22T20:51:41Z</date>
-			<key>Date Added</key><date>2019-09-23T06:45:22Z</date>
+			<key>Date Added</key><date>2019-09-23T07:45:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
 			<key>Play Date</key><integer>3869299169</integer>
 			<key>Play Date UTC</key><date>2026-08-11T11:19:29Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2020-02-02T14:38:00Z</date>
+			<key>Skip Date</key><date>2020-02-02T15:38:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
@@ -39596,7 +39596,7 @@
 			<key>Track Count</key><integer>5</integer>
 			<key>Year</key><integer>2006</integer>
 			<key>Date Modified</key><date>2019-09-22T20:51:35Z</date>
-			<key>Date Added</key><date>2019-09-23T06:45:22Z</date>
+			<key>Date Added</key><date>2019-09-23T07:45:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>24</integer>
@@ -39999,13 +39999,13 @@
 		<dict>
 			<key>Track ID</key><integer>OaxVjqsx</integer>
 			<key>Size</key><integer>14108672</integer>
-			<key>Total Time</key><integer>352986</integer>
+			<key>Total Time</key><integer>351451</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2019-09-23T06:48:20Z</date>
-			<key>Date Added</key><date>2019-09-23T06:45:22Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2019-09-23T07:48:20Z</date>
+			<key>Date Added</key><date>2019-09-23T07:45:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
 			<key>Play Date</key><integer>3869313918</integer>
@@ -40197,8 +40197,8 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2021-04-12T11:05:13Z</date>
-			<key>Date Added</key><date>2021-04-12T11:05:13Z</date>
+			<key>Date Modified</key><date>2021-04-12T12:05:13Z</date>
+			<key>Date Added</key><date>2021-04-12T12:05:13Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
@@ -40695,8 +40695,8 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2015</integer>
-			<key>Date Modified</key><date>2021-04-12T10:33:16Z</date>
-			<key>Date Added</key><date>2021-04-12T10:33:16Z</date>
+			<key>Date Modified</key><date>2021-04-12T11:33:16Z</date>
+			<key>Date Added</key><date>2021-04-12T11:33:16Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -43407,14 +43407,14 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2014-11-24T12:58:23Z</date>
-			<key>Date Added</key><date>2014-09-29T12:01:46Z</date>
+			<key>Date Added</key><date>2014-09-29T13:01:46Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
 			<key>Play Date</key><integer>3865305837</integer>
 			<key>Play Date UTC</key><date>2026-06-26T06:03:57Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2022-09-01T09:50:03Z</date>
+			<key>Skip Date</key><date>2022-09-01T10:50:03Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Persistent ID</key><string>889FBBB998C5202A</string>
@@ -43440,7 +43440,7 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2014-11-24T12:59:00Z</date>
-			<key>Date Added</key><date>2014-09-29T12:01:46Z</date>
+			<key>Date Added</key><date>2014-09-29T13:01:46Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
@@ -43927,7 +43927,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2009-06-20T09:26:06Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
@@ -44064,14 +44064,14 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2009-06-20T09:26:06Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>25</integer>
 			<key>Play Date</key><integer>3869921549</integer>
 			<key>Play Date UTC</key><date>2026-08-18T16:12:29Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2023-05-31T07:29:44Z</date>
+			<key>Skip Date</key><date>2023-05-31T08:29:44Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Persistent ID</key><string>1E7D636A712D8E4C</string>
@@ -45131,8 +45131,8 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2021-10-29T14:36:43Z</date>
-			<key>Date Added</key><date>2021-10-29T14:36:43Z</date>
+			<key>Date Modified</key><date>2021-10-29T15:36:43Z</date>
+			<key>Date Added</key><date>2021-10-29T15:36:43Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -45236,8 +45236,8 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2021-10-29T14:36:44Z</date>
-			<key>Date Added</key><date>2021-10-29T14:36:44Z</date>
+			<key>Date Modified</key><date>2021-10-29T15:36:44Z</date>
+			<key>Date Added</key><date>2021-10-29T15:36:44Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -45301,14 +45301,14 @@
 		<dict>
 			<key>Track ID</key><integer>UCqOLNHS</integer>
 			<key>Size</key><integer>7277904</integer>
-			<key>Total Time</key><integer>202214</integer>
+			<key>Total Time</key><integer>202215</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>21</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2021-08-20T10:36:53Z</date>
-			<key>Date Added</key><date>2021-08-20T10:36:53Z</date>
+			<key>Date Modified</key><date>2021-08-20T11:36:53Z</date>
+			<key>Date Added</key><date>2021-08-20T11:36:53Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -45741,8 +45741,8 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2021-08-20T10:36:53Z</date>
-			<key>Date Added</key><date>2021-08-20T10:36:53Z</date>
+			<key>Date Modified</key><date>2021-08-20T11:36:53Z</date>
+			<key>Date Added</key><date>2021-08-20T11:36:53Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
@@ -45916,14 +45916,14 @@
 		<dict>
 			<key>Track ID</key><integer>xty6owjI</integer>
 			<key>Size</key><integer>11352497</integer>
-			<key>Total Time</key><integer>323754</integer>
+			<key>Total Time</key><integer>323755</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2021-08-20T10:36:53Z</date>
-			<key>Date Added</key><date>2021-08-20T10:36:53Z</date>
+			<key>Date Modified</key><date>2021-08-20T11:36:53Z</date>
+			<key>Date Added</key><date>2021-08-20T11:36:53Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>30</integer>
@@ -50151,7 +50151,7 @@
 			<key>Total Time</key><integer>170057</integer>
 			<key>Track Number</key><integer>15</integer>
 			<key>Date Modified</key><date>2021-10-13T09:01:14Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>30</integer>
@@ -50318,15 +50318,15 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2019-11-01T19:21:01Z</date>
-			<key>Date Added</key><date>2019-11-01T19:21:01Z</date>
+			<key>Date Modified</key><date>2019-11-01T20:21:01Z</date>
+			<key>Date Added</key><date>2019-11-01T20:21:01Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>26</integer>
 			<key>Play Date</key><integer>3869808330</integer>
 			<key>Play Date UTC</key><date>2026-08-17T08:45:30Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2024-06-23T11:00:14Z</date>
+			<key>Skip Date</key><date>2024-06-23T12:00:14Z</date>
 			<key>Release Date</key><date>2017-05-19T12:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Compilation</key><true/>
@@ -50793,8 +50793,8 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2023-08-30T07:11:20Z</date>
-			<key>Date Added</key><date>2023-08-30T07:11:20Z</date>
+			<key>Date Modified</key><date>2023-08-30T08:11:20Z</date>
+			<key>Date Added</key><date>2023-08-30T08:11:20Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -50828,8 +50828,8 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2023-08-30T07:11:20Z</date>
-			<key>Date Added</key><date>2023-08-30T07:11:20Z</date>
+			<key>Date Modified</key><date>2023-08-30T08:11:20Z</date>
+			<key>Date Added</key><date>2023-08-30T08:11:20Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -51211,14 +51211,14 @@
 		<dict>
 			<key>Track ID</key><integer>zDZoVhuo</integer>
 			<key>Size</key><integer>4369491</integer>
-			<key>Total Time</key><integer>119387</integer>
+			<key>Total Time</key><integer>119388</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2023-08-30T07:36:29Z</date>
-			<key>Date Added</key><date>2023-08-30T07:36:29Z</date>
+			<key>Date Modified</key><date>2023-08-30T08:36:29Z</date>
+			<key>Date Added</key><date>2023-08-30T08:36:29Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -51289,8 +51289,8 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2023-08-30T07:34:15Z</date>
-			<key>Date Added</key><date>2023-08-30T07:34:15Z</date>
+			<key>Date Modified</key><date>2023-08-30T08:34:15Z</date>
+			<key>Date Added</key><date>2023-08-30T08:34:15Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -53840,14 +53840,14 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2002</integer>
 			<key>Date Modified</key><date>2014-11-10T11:19:55Z</date>
-			<key>Date Added</key><date>2014-11-10T11:21:19Z</date>
+			<key>Date Added</key><date>2014-11-10T12:21:19Z</date>
 			<key>Bit Rate</key><integer>1411</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>35</integer>
 			<key>Play Date</key><integer>3869908452</integer>
 			<key>Play Date UTC</key><date>2026-08-18T12:34:12Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2024-02-10T13:24:05Z</date>
+			<key>Skip Date</key><date>2024-02-10T14:24:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Persistent ID</key><string>EA103E329FF4DD11</string>
@@ -55373,14 +55373,14 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2014-11-10T16:22:03Z</date>
-			<key>Date Added</key><date>2014-11-10T16:24:25Z</date>
+			<key>Date Added</key><date>2014-11-10T17:24:25Z</date>
 			<key>Bit Rate</key><integer>182</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>28</integer>
 			<key>Play Date</key><integer>3865305448</integer>
 			<key>Play Date UTC</key><date>2026-06-26T05:57:28Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2022-05-10T11:13:16Z</date>
+			<key>Skip Date</key><date>2022-05-10T12:13:16Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Persistent ID</key><string>F944E3B8CAE16E7B</string>
@@ -56382,7 +56382,7 @@
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2012-12-13T22:27:17Z</date>
-			<key>Date Added</key><date>2013-01-20T05:07:19Z</date>
+			<key>Date Added</key><date>2013-01-20T06:07:19Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>26</integer>
@@ -58583,14 +58583,14 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2011</integer>
 			<key>Date Modified</key><date>2018-09-10T21:47:04Z</date>
-			<key>Date Added</key><date>2013-01-20T04:56:37Z</date>
+			<key>Date Added</key><date>2013-01-20T05:56:37Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>37</integer>
 			<key>Play Date</key><integer>3869227586</integer>
 			<key>Play Date UTC</key><date>2026-08-10T15:26:26Z</date>
 			<key>Skip Count</key><integer>5</integer>
-			<key>Skip Date</key><date>2025-05-30T12:39:58Z</date>
+			<key>Skip Date</key><date>2025-05-30T13:39:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -61439,8 +61439,8 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2021-08-20T10:36:19Z</date>
-			<key>Date Added</key><date>2021-08-20T10:36:19Z</date>
+			<key>Date Modified</key><date>2021-08-20T11:36:19Z</date>
+			<key>Date Added</key><date>2021-08-20T11:36:19Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -61475,8 +61475,8 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2021-08-20T10:36:19Z</date>
-			<key>Date Added</key><date>2021-08-20T10:36:19Z</date>
+			<key>Date Modified</key><date>2021-08-20T11:36:19Z</date>
+			<key>Date Added</key><date>2021-08-20T11:36:19Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
@@ -61691,8 +61691,8 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2021-08-20T10:36:19Z</date>
-			<key>Date Added</key><date>2021-08-20T10:36:19Z</date>
+			<key>Date Modified</key><date>2021-08-20T11:36:19Z</date>
+			<key>Date Added</key><date>2021-08-20T11:36:19Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -61799,14 +61799,14 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2021-08-20T10:36:19Z</date>
-			<key>Date Added</key><date>2021-08-20T10:36:19Z</date>
+			<key>Date Modified</key><date>2021-08-20T11:36:19Z</date>
+			<key>Date Added</key><date>2021-08-20T11:36:19Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
 			<key>Play Date</key><integer>3869900090</integer>
 			<key>Play Date UTC</key><date>2026-08-18T10:14:50Z</date>
-			<key>Release Date</key><date>2016-11-11T08:00:00Z</date>
+			<key>Release Date</key><date>2016-11-11T12:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
@@ -63505,8 +63505,8 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2024-11-24T16:53:17Z</date>
-			<key>Date Added</key><date>2024-11-24T16:53:17Z</date>
+			<key>Date Modified</key><date>2024-11-24T17:53:17Z</date>
+			<key>Date Added</key><date>2024-11-24T17:53:17Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>9</integer>
@@ -63822,14 +63822,14 @@
 			<key>Total Time</key><integer>268904</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Date Modified</key><date>2004-11-14T15:46:13Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>30</integer>
 			<key>Play Date</key><integer>3869485166</integer>
 			<key>Play Date UTC</key><date>2026-08-13T14:59:26Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2022-05-09T09:38:39Z</date>
+			<key>Skip Date</key><date>2022-05-09T10:38:39Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Loved</key><true/>
@@ -64640,8 +64640,8 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2015</integer>
-			<key>Date Modified</key><date>2020-05-12T11:36:42Z</date>
-			<key>Date Added</key><date>2020-05-12T11:36:42Z</date>
+			<key>Date Modified</key><date>2020-05-12T12:36:42Z</date>
+			<key>Date Added</key><date>2020-05-12T12:36:42Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
@@ -66561,8 +66561,8 @@
 			<key>Track Number</key><integer>22</integer>
 			<key>Track Count</key><integer>41</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-03-08T16:23:21Z</date>
-			<key>Date Added</key><date>2022-03-08T16:23:21Z</date>
+			<key>Date Modified</key><date>2022-03-08T17:23:21Z</date>
+			<key>Date Added</key><date>2022-03-08T17:23:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -66813,8 +66813,8 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>41</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-03-08T16:23:21Z</date>
-			<key>Date Added</key><date>2022-03-08T16:23:21Z</date>
+			<key>Date Modified</key><date>2022-03-08T17:23:21Z</date>
+			<key>Date Added</key><date>2022-03-08T17:23:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -67065,8 +67065,8 @@
 			<key>Track Number</key><integer>31</integer>
 			<key>Track Count</key><integer>41</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-03-08T16:23:21Z</date>
-			<key>Date Added</key><date>2022-03-08T16:23:21Z</date>
+			<key>Date Modified</key><date>2022-03-08T17:23:21Z</date>
+			<key>Date Added</key><date>2022-03-08T17:23:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -67620,14 +67620,14 @@
 		<dict>
 			<key>Track ID</key><integer>qUGb4E86</integer>
 			<key>Size</key><integer>7470680</integer>
-			<key>Total Time</key><integer>195272</integer>
+			<key>Total Time</key><integer>195273</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-03-08T16:22:13Z</date>
-			<key>Date Added</key><date>2022-03-08T16:22:13Z</date>
+			<key>Date Modified</key><date>2022-03-08T17:22:13Z</date>
+			<key>Date Added</key><date>2022-03-08T17:22:13Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
@@ -67873,8 +67873,8 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>17</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2020-01-21T09:25:15Z</date>
-			<key>Date Added</key><date>2020-01-21T09:25:15Z</date>
+			<key>Date Modified</key><date>2020-01-21T10:25:15Z</date>
+			<key>Date Added</key><date>2020-01-21T10:25:15Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
@@ -68455,14 +68455,14 @@
 		<dict>
 			<key>Track ID</key><integer>Yho0sVR9</integer>
 			<key>Size</key><integer>9428883</integer>
-			<key>Total Time</key><integer>254746</integer>
+			<key>Total Time</key><integer>254747</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>47</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-11-04T15:27:52Z</date>
-			<key>Date Added</key><date>2024-11-04T15:27:52Z</date>
+			<key>Date Modified</key><date>2024-11-04T16:27:52Z</date>
+			<key>Date Added</key><date>2024-11-04T16:27:52Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -68682,7 +68682,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2018-09-10T21:47:04Z</date>
-			<key>Date Added</key><date>2013-01-20T04:57:54Z</date>
+			<key>Date Added</key><date>2013-01-20T05:57:54Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>35</integer>
@@ -68744,7 +68744,7 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2018-09-10T21:47:06Z</date>
-			<key>Date Added</key><date>2013-01-20T04:57:54Z</date>
+			<key>Date Added</key><date>2013-01-20T05:57:54Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>33</integer>
@@ -69216,8 +69216,8 @@
 			<key>Track Number</key><integer>25</integer>
 			<key>Track Count</key><integer>27</integer>
 			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2020-05-13T14:44:35Z</date>
-			<key>Date Added</key><date>2020-05-13T14:44:35Z</date>
+			<key>Date Modified</key><date>2020-05-13T15:44:35Z</date>
+			<key>Date Added</key><date>2020-05-13T15:44:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
@@ -69461,8 +69461,8 @@
 			<key>Track Number</key><integer>22</integer>
 			<key>Track Count</key><integer>27</integer>
 			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2020-05-13T14:44:35Z</date>
-			<key>Date Added</key><date>2020-05-13T14:44:35Z</date>
+			<key>Date Modified</key><date>2020-05-13T15:44:35Z</date>
+			<key>Date Added</key><date>2020-05-13T15:44:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>28</integer>
@@ -72687,8 +72687,8 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2020-03-19T11:19:58Z</date>
-			<key>Date Added</key><date>2020-03-19T11:19:58Z</date>
+			<key>Date Modified</key><date>2020-03-19T12:19:58Z</date>
+			<key>Date Added</key><date>2020-03-19T12:19:58Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>26</integer>
@@ -76173,7 +76173,7 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>20</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2012-09-15T14:45:26Z</date>
-			<key>Date Added</key><date>2014-05-18T23:54:43Z</date>
+			<key>Date Added</key><date>2014-05-19T00:54:43Z</date>
 			<key>Bit Rate</key><integer>216</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>41</integer>
@@ -77030,8 +77030,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2022-10-31T08:48:51Z</date>
-			<key>Date Added</key><date>2022-10-31T08:48:51Z</date>
+			<key>Date Modified</key><date>2022-10-31T09:48:51Z</date>
+			<key>Date Added</key><date>2022-10-31T09:48:51Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>17</integer>
@@ -77556,8 +77556,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-10-31T08:49:00Z</date>
-			<key>Date Added</key><date>2022-10-31T08:49:00Z</date>
+			<key>Date Modified</key><date>2022-10-31T09:49:00Z</date>
+			<key>Date Added</key><date>2022-10-31T09:49:00Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -77869,8 +77869,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2022-09-15T12:44:50Z</date>
-			<key>Date Added</key><date>2022-09-15T12:44:50Z</date>
+			<key>Date Modified</key><date>2022-09-15T13:44:50Z</date>
+			<key>Date Added</key><date>2022-09-15T13:44:50Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -77937,8 +77937,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2022-09-15T12:44:50Z</date>
-			<key>Date Added</key><date>2022-09-15T12:44:50Z</date>
+			<key>Date Modified</key><date>2022-09-15T13:44:50Z</date>
+			<key>Date Added</key><date>2022-09-15T13:44:50Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -78033,14 +78033,14 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 		<dict>
 			<key>Track ID</key><integer>eVEG097s</integer>
 			<key>Size</key><integer>13625632</integer>
-			<key>Total Time</key><integer>384288</integer>
+			<key>Total Time</key><integer>384289</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2022-10-31T08:48:42Z</date>
-			<key>Date Added</key><date>2022-10-31T08:48:42Z</date>
+			<key>Date Modified</key><date>2022-10-31T09:48:42Z</date>
+			<key>Date Added</key><date>2022-10-31T09:48:42Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -78908,14 +78908,14 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>545619</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Date Modified</key><date>2005-04-22T22:41:33Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
 			<key>Play Date</key><integer>3869905495</integer>
 			<key>Play Date UTC</key><date>2026-08-18T11:44:55Z</date>
 			<key>Skip Count</key><integer>8</integer>
-			<key>Skip Date</key><date>2026-01-29T11:36:56Z</date>
+			<key>Skip Date</key><date>2026-01-29T12:36:56Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Persistent ID</key><string>7779A954A726508D</string>
@@ -80563,14 +80563,14 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2000</integer>
 			<key>Date Modified</key><date>2005-04-22T22:41:35Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>25</integer>
 			<key>Play Date</key><integer>3869298271</integer>
 			<key>Play Date UTC</key><date>2026-08-11T11:04:31Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2023-03-27T07:56:15Z</date>
+			<key>Skip Date</key><date>2023-03-27T08:56:15Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Loved</key><true/>
@@ -81104,14 +81104,14 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>150622</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Date Modified</key><date>2005-04-22T22:41:35Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
 			<key>Play Date</key><integer>3869831136</integer>
 			<key>Play Date UTC</key><date>2026-08-17T15:05:36Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2022-08-22T10:13:10Z</date>
+			<key>Skip Date</key><date>2022-08-22T11:13:10Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Persistent ID</key><string>2CF6BEC50633ACE5</string>
@@ -81295,14 +81295,14 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>407771</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Date Modified</key><date>2005-04-22T22:41:35Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>26</integer>
 			<key>Play Date</key><integer>3865244900</integer>
 			<key>Play Date UTC</key><date>2026-06-25T13:08:20Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2022-08-18T11:56:18Z</date>
+			<key>Skip Date</key><date>2022-08-18T12:56:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Loved</key><true/>
@@ -81910,15 +81910,15 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2020</integer>
-			<key>Date Modified</key><date>2020-08-28T06:07:20Z</date>
-			<key>Date Added</key><date>2020-08-28T06:07:20Z</date>
+			<key>Date Modified</key><date>2020-08-28T07:07:20Z</date>
+			<key>Date Added</key><date>2020-08-28T07:07:20Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>25</integer>
 			<key>Play Date</key><integer>3869903473</integer>
 			<key>Play Date UTC</key><date>2026-08-18T11:11:13Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2020-11-06T16:02:46Z</date>
+			<key>Skip Date</key><date>2020-11-06T17:02:46Z</date>
 			<key>Release Date</key><date>2020-07-17T07:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -84144,8 +84144,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>15</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2011</integer>
-			<key>Date Modified</key><date>2021-03-23T13:09:34Z</date>
-			<key>Date Added</key><date>2021-03-23T13:09:34Z</date>
+			<key>Date Modified</key><date>2021-03-23T14:09:34Z</date>
+			<key>Date Added</key><date>2021-03-23T14:09:34Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -84873,7 +84873,7 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>78393</integer>
 			<key>Track Number</key><integer>19</integer>
 			<key>Date Modified</key><date>2006-03-21T03:48:02Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>34</integer>
@@ -84977,7 +84977,7 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>151222</integer>
 			<key>Track Number</key><integer>28</integer>
 			<key>Date Modified</key><date>2006-03-21T03:48:02Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>30</integer>
@@ -85002,7 +85002,7 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>263888</integer>
 			<key>Track Number</key><integer>29</integer>
 			<key>Date Modified</key><date>2006-03-21T03:48:02Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>36</integer>
@@ -85479,8 +85479,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>24</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2020-03-19T11:19:58Z</date>
-			<key>Date Added</key><date>2020-03-19T11:19:58Z</date>
+			<key>Date Modified</key><date>2020-03-19T12:19:58Z</date>
+			<key>Date Added</key><date>2020-03-19T12:19:58Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
@@ -85488,13 +85488,15 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Play Date UTC</key><date>2026-08-19T09:35:42Z</date>
 			<key>Release Date</key><date>2016-06-01T12:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D4C1B9FE4FC7C604</string>
 			<key>Track Type</key><string>Remote</string>
 			<key>Apple Music</key><true/>
 			<key>Name</key><string>The Night of Long Fangs</string>
 			<key>Artist</key><string>Mikolai Stroinski</string>
-			<key>Album Artist</key><string>Marcin Przybyłowicz, Mikolai Stroinski &#38; Piotr Musial</string>
+			<key>Album Artist</key><string>Marcin Przybylowicz, Mikolai Stroinski &#38; Piotr Musial</string>
 			<key>Composer</key><string>Mikolai Stroinski</string>
 			<key>Album</key><string>The Witcher 3: Wild Hunt - Blood and Wine (Soundtrack)</string>
 			<key>Genre</key><string>Soundtrack</string>
@@ -87051,15 +87053,15 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 		<dict>
 			<key>Track ID</key><integer>QruaWFoW</integer>
 			<key>Size</key><integer>12300160</integer>
-			<key>Total Time</key><integer>291400</integer>
+			<key>Total Time</key><integer>290377</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2018-09-10T21:47:33Z</date>
-			<key>Date Added</key><date>2016-11-24T10:31:39Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2018-09-10T22:47:33Z</date>
+			<key>Date Added</key><date>2016-11-24T11:31:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>32</integer>
 			<key>Play Date</key><integer>3869913951</integer>
@@ -87373,8 +87375,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>21</integer>
 			<key>Track Count</key><integer>23</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2025-09-04T08:20:22Z</date>
-			<key>Date Added</key><date>2025-09-04T08:20:22Z</date>
+			<key>Date Modified</key><date>2025-09-04T09:20:22Z</date>
+			<key>Date Added</key><date>2025-09-04T09:20:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -87552,14 +87554,14 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 		<dict>
 			<key>Track ID</key><integer>xhWeGVFl</integer>
 			<key>Size</key><integer>2591147</integer>
-			<key>Total Time</key><integer>65306</integer>
+			<key>Total Time</key><integer>65307</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>23</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2025-09-04T08:20:22Z</date>
-			<key>Date Added</key><date>2025-09-04T08:20:22Z</date>
+			<key>Date Modified</key><date>2025-09-04T09:20:22Z</date>
+			<key>Date Added</key><date>2025-09-04T09:20:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -88669,12 +88671,12 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 		<dict>
 			<key>Track ID</key><integer>9FyN3ee0</integer>
 			<key>Size</key><integer>15015356</integer>
-			<key>Total Time</key><integer>505413</integer>
+			<key>Total Time</key><integer>505469</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2009-03-05T00:59:35Z</date>
-			<key>Date Added</key><date>2014-07-15T10:08:04Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2009-03-05T01:59:35Z</date>
+			<key>Date Added</key><date>2014-07-15T11:08:04Z</date>
+			<key>Bit Rate</key><integer>237</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>40</integer>
 			<key>Play Date</key><integer>3869985094</integer>
@@ -88990,8 +88992,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>362866</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2009-03-05T00:59:44Z</date>
-			<key>Date Added</key><date>2014-07-15T10:08:04Z</date>
+			<key>Date Modified</key><date>2009-03-05T01:59:44Z</date>
+			<key>Date Added</key><date>2014-07-15T11:08:04Z</date>
 			<key>Bit Rate</key><integer>204</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>42</integer>
@@ -89385,8 +89387,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2018</integer>
-			<key>Date Modified</key><date>2020-11-27T15:33:55Z</date>
-			<key>Date Added</key><date>2020-11-27T15:33:55Z</date>
+			<key>Date Modified</key><date>2020-11-27T16:33:55Z</date>
+			<key>Date Added</key><date>2020-11-27T16:33:55Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -89706,9 +89708,9 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 			<key>Total Time</key><integer>168946</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>2013</integer>
-			<key>Date Modified</key><date>2016-11-24T00:52:37Z</date>
-			<key>Date Added</key><date>2016-11-24T00:53:16Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2016-11-24T01:52:37Z</date>
+			<key>Date Added</key><date>2016-11-24T01:53:16Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>37</integer>
 			<key>Play Date</key><integer>3865242071</integer>
@@ -90070,12 +90072,12 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 		<dict>
 			<key>Track ID</key><integer>iNno7mGk</integer>
 			<key>Size</key><integer>7229770</integer>
-			<key>Total Time</key><integer>315120</integer>
+			<key>Total Time</key><integer>313129</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2014-07-15T10:17:32Z</date>
-			<key>Date Added</key><date>2014-07-15T10:21:45Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2014-07-15T11:17:32Z</date>
+			<key>Date Added</key><date>2014-07-15T11:21:45Z</date>
+			<key>Bit Rate</key><integer>184</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>40</integer>
 			<key>Play Date</key><integer>3869900985</integer>
@@ -90246,15 +90248,15 @@ http://www.bubaneemusic2.com</string>
 		<dict>
 			<key>Track ID</key><integer>plQoYmfu</integer>
 			<key>Size</key><integer>13376533</integer>
-			<key>Total Time</key><integer>333640</integer>
+			<key>Total Time</key><integer>332878</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2018-09-10T22:47:36Z</date>
-			<key>Date Added</key><date>2014-07-15T10:15:53Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2018-09-10T23:47:36Z</date>
+			<key>Date Added</key><date>2014-07-15T11:15:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>43</integer>
 			<key>Play Date</key><integer>3869484897</integer>
@@ -91554,14 +91556,14 @@ http://www.bubaneemusic2.com</string>
 		<dict>
 			<key>Track ID</key><integer>6FPV8BAl</integer>
 			<key>Size</key><integer>6297424</integer>
-			<key>Total Time</key><integer>175415</integer>
+			<key>Total Time</key><integer>175416</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>15</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2025</integer>
-			<key>Date Modified</key><date>2025-09-03T22:06:06Z</date>
-			<key>Date Added</key><date>2025-09-03T22:06:06Z</date>
+			<key>Date Modified</key><date>2025-09-03T23:06:06Z</date>
+			<key>Date Added</key><date>2025-09-03T23:06:06Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -92941,7 +92943,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2006</integer>
 			<key>Date Modified</key><date>2018-02-08T22:27:09Z</date>
-			<key>Date Added</key><date>2018-02-18T09:23:15Z</date>
+			<key>Date Added</key><date>2018-02-18T10:23:15Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
@@ -95782,7 +95784,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2020</integer>
 			<key>Date Modified</key><date>2020-03-26T23:03:50Z</date>
-			<key>Date Added</key><date>2020-03-26T23:06:49Z</date>
+			<key>Date Added</key><date>2020-03-27T00:06:49Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>25</integer>
@@ -96040,7 +96042,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2020</integer>
 			<key>Date Modified</key><date>2020-03-26T23:08:41Z</date>
-			<key>Date Added</key><date>2020-03-26T23:09:25Z</date>
+			<key>Date Added</key><date>2020-03-27T00:09:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>26</integer>
@@ -97194,7 +97196,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1991</integer>
 			<key>Date Modified</key><date>2005-04-09T11:45:58Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>211</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>45</integer>
@@ -97309,7 +97311,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1991</integer>
 			<key>Date Modified</key><date>2005-04-09T11:45:56Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>215</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>31</integer>
@@ -97368,7 +97370,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1991</integer>
 			<key>Date Modified</key><date>2021-08-20T12:11:20Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>211</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>31</integer>
@@ -98383,7 +98385,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Total Time</key><integer>53054</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Date Modified</key><date>2006-01-21T15:23:59Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>37</integer>
@@ -98759,7 +98761,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2014-11-10T16:25:09Z</date>
-			<key>Date Added</key><date>2014-11-10T16:25:42Z</date>
+			<key>Date Added</key><date>2014-11-10T17:25:42Z</date>
 			<key>Bit Rate</key><integer>230</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>30</integer>
@@ -98909,7 +98911,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2014-11-10T16:25:09Z</date>
-			<key>Date Added</key><date>2014-11-10T16:25:42Z</date>
+			<key>Date Added</key><date>2014-11-10T17:25:42Z</date>
 			<key>Bit Rate</key><integer>223</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>39</integer>
@@ -99331,7 +99333,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2014-11-10T16:25:07Z</date>
-			<key>Date Added</key><date>2014-11-10T16:25:42Z</date>
+			<key>Date Added</key><date>2014-11-10T17:25:42Z</date>
 			<key>Bit Rate</key><integer>231</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>33</integer>
@@ -99363,8 +99365,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2013</integer>
-			<key>Date Modified</key><date>2021-04-12T15:18:40Z</date>
-			<key>Date Added</key><date>2021-04-12T15:18:40Z</date>
+			<key>Date Modified</key><date>2021-04-12T16:18:40Z</date>
+			<key>Date Added</key><date>2021-04-12T16:18:40Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -99399,8 +99401,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2013</integer>
-			<key>Date Modified</key><date>2021-04-12T15:18:40Z</date>
-			<key>Date Added</key><date>2021-04-12T15:18:40Z</date>
+			<key>Date Modified</key><date>2021-04-12T16:18:40Z</date>
+			<key>Date Added</key><date>2021-04-12T16:18:40Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
@@ -99573,14 +99575,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>jzAgwHYB</integer>
 			<key>Size</key><integer>6325551</integer>
-			<key>Total Time</key><integer>159684</integer>
+			<key>Total Time</key><integer>159685</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2013</integer>
-			<key>Date Modified</key><date>2021-04-12T15:18:40Z</date>
-			<key>Date Added</key><date>2021-04-12T15:18:40Z</date>
+			<key>Date Modified</key><date>2021-04-12T16:18:40Z</date>
+			<key>Date Added</key><date>2021-04-12T16:18:40Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -99795,8 +99797,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2021-04-12T17:55:26Z</date>
-			<key>Date Added</key><date>2021-04-12T17:55:26Z</date>
+			<key>Date Modified</key><date>2021-04-12T18:55:26Z</date>
+			<key>Date Added</key><date>2021-04-12T18:55:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -100732,14 +100734,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>GHNRaYBZ</integer>
 			<key>Size</key><integer>14824286</integer>
-			<key>Total Time</key><integer>433562</integer>
+			<key>Total Time</key><integer>433563</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>16</integer>
 			<key>Track Count</key><integer>23</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2020-01-06T10:37:12Z</date>
-			<key>Date Added</key><date>2020-01-06T10:37:12Z</date>
+			<key>Date Modified</key><date>2020-01-06T11:37:12Z</date>
+			<key>Date Added</key><date>2020-01-06T11:37:12Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>36</integer>
@@ -100843,8 +100845,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>23</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2020-01-06T10:37:12Z</date>
-			<key>Date Added</key><date>2020-01-06T10:37:12Z</date>
+			<key>Date Modified</key><date>2020-01-06T11:37:12Z</date>
+			<key>Date Added</key><date>2020-01-06T11:37:12Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>28</integer>
@@ -101502,14 +101504,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>9JZSMTV3</integer>
 			<key>Size</key><integer>4872876</integer>
-			<key>Total Time</key><integer>125946</integer>
+			<key>Total Time</key><integer>125947</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>49</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:14Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:14Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:14Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -101644,8 +101646,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>29</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:14Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:14Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:14Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -101787,8 +101789,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:14Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:14Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:14Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -101927,8 +101929,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:14Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:14Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:14Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -101957,14 +101959,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>8zY7GHlJ</integer>
 			<key>Size</key><integer>4521592</integer>
-			<key>Total Time</key><integer>112786</integer>
+			<key>Total Time</key><integer>112787</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:14Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:14Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:14Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -102159,8 +102161,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:13Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:13Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:13Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:13Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -102295,8 +102297,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:13Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:13Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:13Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:13Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -102325,14 +102327,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>gWetI2me</integer>
 			<key>Size</key><integer>4127180</integer>
-			<key>Total Time</key><integer>111866</integer>
+			<key>Total Time</key><integer>111867</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>42</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:14Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:14Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:14Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -102621,14 +102623,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>SU5ivhFf</integer>
 			<key>Size</key><integer>3921767</integer>
-			<key>Total Time</key><integer>103506</integer>
+			<key>Total Time</key><integer>103507</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>21</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:14Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:14Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:14Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -103057,14 +103059,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>7PNojns1</integer>
 			<key>Size</key><integer>5593876</integer>
-			<key>Total Time</key><integer>154146</integer>
+			<key>Total Time</key><integer>154147</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>58</integer>
 			<key>Track Count</key><integer>58</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:15Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:15Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:15Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:15Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -103367,8 +103369,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>53</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:57Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:57Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:57Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:57Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -103439,8 +103441,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>52</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -103475,8 +103477,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>47</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -103927,8 +103929,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>14</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:55Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:55Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:55Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:55Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -103963,8 +103965,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -104031,8 +104033,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:55Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:55Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:55Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:55Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -104099,8 +104101,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>24</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -104135,8 +104137,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>31</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -104343,8 +104345,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>36</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -104691,8 +104693,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:55Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:55Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:55Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:55Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -104727,8 +104729,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>32</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -104799,8 +104801,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:55Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:55Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:55Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:55Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -104903,8 +104905,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:55Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:55Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:55Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:55Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -104969,14 +104971,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>MZ9P1dBb</integer>
 			<key>Size</key><integer>4890354</integer>
-			<key>Total Time</key><integer>134466</integer>
+			<key>Total Time</key><integer>134467</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>44</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -105011,8 +105013,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>35</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -105321,14 +105323,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>djhhs7v2</integer>
 			<key>Size</key><integer>1658994</integer>
-			<key>Total Time</key><integer>36026</integer>
+			<key>Total Time</key><integer>36027</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>46</integer>
 			<key>Track Count</key><integer>66</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:56Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:56Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:56Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:56Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -106119,14 +106121,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>FRmCk0ah</integer>
 			<key>Size</key><integer>4454872</integer>
-			<key>Total Time</key><integer>134266</integer>
+			<key>Total Time</key><integer>134267</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:35Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:35Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:35Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -106436,8 +106438,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>78</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:37Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:37Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:37Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -106534,14 +106536,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>KOqS7m7y</integer>
 			<key>Size</key><integer>3189556</integer>
-			<key>Total Time</key><integer>96226</integer>
+			<key>Total Time</key><integer>96227</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>116</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:39Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:39Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:39Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:39Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -106676,8 +106678,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>15</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:35Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:35Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:35Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -106744,8 +106746,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>23</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:35Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:35Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:35Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -106846,14 +106848,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>H0kn8dw9</integer>
 			<key>Size</key><integer>4723433</integer>
-			<key>Total Time</key><integer>126066</integer>
+			<key>Total Time</key><integer>126067</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>108</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:38Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:38Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:38Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -106995,8 +106997,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>41</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:36Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:36Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:36Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -107031,8 +107033,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>25</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:35Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:35Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:35Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -107067,8 +107069,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>105</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:38Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:38Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:38Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -107283,8 +107285,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>45</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:36Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:36Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:36Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -107593,14 +107595,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>vD8NAH1Z</integer>
 			<key>Size</key><integer>2511812</integer>
-			<key>Total Time</key><integer>59666</integer>
+			<key>Total Time</key><integer>59667</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:35Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:35Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:35Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -107881,8 +107883,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>46</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:36Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:36Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:36Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -108241,8 +108243,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>21</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:35Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:35Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:35Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -108385,8 +108387,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>91</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:38Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:38Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:38Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -108804,8 +108806,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>104</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:38Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:38Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:38Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -108911,8 +108913,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>95</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:38Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:38Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:38Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -109258,8 +109260,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>84</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:37Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:37Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:37Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -109493,14 +109495,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>14QiB7Yr</integer>
 			<key>Size</key><integer>1528153</integer>
-			<key>Total Time</key><integer>30586</integer>
+			<key>Total Time</key><integer>30587</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>88</integer>
 			<key>Track Count</key><integer>117</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:31:38Z</date>
-			<key>Date Added</key><date>2025-04-10T06:31:38Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:31:38Z</date>
+			<key>Date Added</key><date>2025-04-10T07:31:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -110319,8 +110321,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>20</integer>
 			<key>Track Count</key><integer>30</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2025-04-10T06:33:00Z</date>
-			<key>Date Added</key><date>2025-04-10T06:33:00Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:33:00Z</date>
+			<key>Date Added</key><date>2025-04-10T07:33:00Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -111747,8 +111749,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>20</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2025-04-10T06:34:36Z</date>
-			<key>Date Added</key><date>2025-04-10T06:34:36Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:34:36Z</date>
+			<key>Date Added</key><date>2025-04-10T07:34:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -112194,8 +112196,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2025-04-10T06:34:08Z</date>
-			<key>Date Added</key><date>2025-04-10T06:34:08Z</date>
+			<key>Date Modified</key><date>2025-04-10T07:34:08Z</date>
+			<key>Date Added</key><date>2025-04-10T07:34:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -112601,8 +112603,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2025</integer>
-			<key>Date Modified</key><date>2025-11-14T12:27:14Z</date>
-			<key>Date Added</key><date>2025-11-14T12:27:14Z</date>
+			<key>Date Modified</key><date>2025-11-14T13:27:14Z</date>
+			<key>Date Added</key><date>2025-11-14T13:27:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -112945,8 +112947,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2013</integer>
-			<key>Date Modified</key><date>2020-06-12T09:36:51Z</date>
-			<key>Date Added</key><date>2020-06-12T09:36:51Z</date>
+			<key>Date Modified</key><date>2020-06-12T10:36:51Z</date>
+			<key>Date Added</key><date>2020-06-12T10:36:51Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>24</integer>
@@ -113017,8 +113019,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2013</integer>
-			<key>Date Modified</key><date>2020-06-12T09:36:51Z</date>
-			<key>Date Added</key><date>2020-06-12T09:36:51Z</date>
+			<key>Date Modified</key><date>2020-06-12T10:36:51Z</date>
+			<key>Date Added</key><date>2020-06-12T10:36:51Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
@@ -114175,14 +114177,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>RG5Puds1</integer>
 			<key>Size</key><integer>9890620</integer>
-			<key>Total Time</key><integer>280932</integer>
+			<key>Total Time</key><integer>280933</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2018</integer>
-			<key>Date Modified</key><date>2024-12-21T13:32:04Z</date>
-			<key>Date Added</key><date>2024-12-21T13:32:04Z</date>
+			<key>Date Modified</key><date>2024-12-21T14:32:04Z</date>
+			<key>Date Added</key><date>2024-12-21T14:32:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>11</integer>
@@ -115929,14 +115931,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2015-09-07T09:05:34Z</date>
-			<key>Date Added</key><date>2015-09-08T23:44:47Z</date>
+			<key>Date Added</key><date>2015-09-09T00:44:47Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>40</integer>
 			<key>Play Date</key><integer>3869811502</integer>
 			<key>Play Date UTC</key><date>2026-08-17T09:38:22Z</date>
 			<key>Skip Count</key><integer>4</integer>
-			<key>Skip Date</key><date>2020-05-28T08:09:38Z</date>
+			<key>Skip Date</key><date>2020-05-28T09:09:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
@@ -117769,14 +117771,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>u0WqBEt6</integer>
 			<key>Size</key><integer>6383678</integer>
-			<key>Total Time</key><integer>164068</integer>
+			<key>Total Time</key><integer>164069</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>18</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2020</integer>
-			<key>Date Modified</key><date>2020-07-23T13:24:54Z</date>
-			<key>Date Added</key><date>2020-07-23T13:24:54Z</date>
+			<key>Date Modified</key><date>2020-07-23T14:24:54Z</date>
+			<key>Date Added</key><date>2020-07-23T14:24:54Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>24</integer>
@@ -118574,14 +118576,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>TWsY9BUg</integer>
 			<key>Size</key><integer>17081291</integer>
-			<key>Total Time</key><integer>483346</integer>
+			<key>Total Time</key><integer>483347</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2020-06-10T07:33:23Z</date>
-			<key>Date Added</key><date>2020-06-10T07:33:23Z</date>
+			<key>Date Modified</key><date>2020-06-10T08:33:23Z</date>
+			<key>Date Added</key><date>2020-06-10T08:33:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -118688,8 +118690,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2020-05-11T11:02:03Z</date>
-			<key>Date Added</key><date>2020-05-11T11:02:03Z</date>
+			<key>Date Modified</key><date>2020-05-11T12:02:03Z</date>
+			<key>Date Added</key><date>2020-05-11T12:02:03Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -119151,7 +119153,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>23</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2014-05-19T12:10:31Z</date>
-			<key>Date Added</key><date>2014-05-19T12:11:36Z</date>
+			<key>Date Added</key><date>2014-05-19T13:11:36Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>33</integer>
@@ -120033,14 +120035,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2006</integer>
 			<key>Date Modified</key><date>2018-09-10T21:47:52Z</date>
-			<key>Date Added</key><date>2018-02-08T10:37:43Z</date>
+			<key>Date Added</key><date>2018-02-08T11:37:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
 			<key>Play Date</key><integer>3869830950</integer>
 			<key>Play Date UTC</key><date>2026-08-17T15:02:30Z</date>
 			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2022-05-23T11:16:23Z</date>
+			<key>Skip Date</key><date>2022-05-23T12:16:23Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -120323,14 +120325,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2013</integer>
 			<key>Date Modified</key><date>2018-09-10T21:48:40Z</date>
-			<key>Date Added</key><date>2018-02-08T10:37:43Z</date>
+			<key>Date Added</key><date>2018-02-08T11:37:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>37</integer>
 			<key>Play Date</key><integer>3869915565</integer>
 			<key>Play Date UTC</key><date>2026-08-18T14:32:45Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2023-05-10T08:50:58Z</date>
+			<key>Skip Date</key><date>2023-05-10T09:50:58Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -120423,7 +120425,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2013</integer>
 			<key>Date Modified</key><date>2018-09-10T21:48:39Z</date>
-			<key>Date Added</key><date>2018-02-08T10:37:43Z</date>
+			<key>Date Added</key><date>2018-02-08T11:37:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>32</integer>
@@ -120665,7 +120667,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-10T21:48:29Z</date>
-			<key>Date Added</key><date>2018-02-08T10:37:43Z</date>
+			<key>Date Added</key><date>2018-02-08T11:37:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
@@ -120691,7 +120693,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Size</key><integer>6121472</integer>
 			<key>Total Time</key><integer>305972</integer>
 			<key>Date Modified</key><date>2004-11-13T16:46:47Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Volume Adjustment</key><integer>255</integer>
@@ -122050,11 +122052,11 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>MMCi5ha1</integer>
 			<key>Size</key><integer>15859982</integer>
-			<key>Total Time</key><integer>393426</integer>
+			<key>Total Time</key><integer>393456</integer>
 			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2018-09-10T21:48:11Z</date>
-			<key>Date Added</key><date>2018-02-08T15:34:00Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2018-09-10T22:48:11Z</date>
+			<key>Date Added</key><date>2018-02-08T16:34:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>26</integer>
 			<key>Play Date</key><integer>3865309181</integer>
@@ -122518,13 +122520,13 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>7jpTvU9x</integer>
 			<key>Size</key><integer>24783412</integer>
-			<key>Total Time</key><integer>617746</integer>
+			<key>Total Time</key><integer>617717</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2018-09-10T21:47:37Z</date>
-			<key>Date Added</key><date>2018-02-08T15:34:00Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2018-09-10T22:47:37Z</date>
+			<key>Date Added</key><date>2018-02-08T16:34:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>31</integer>
 			<key>Play Date</key><integer>3869464967</integer>
@@ -122904,7 +122906,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Total Time</key><integer>154697</integer>
 			<key>Year</key><integer>2005</integer>
 			<key>Date Modified</key><date>2006-02-16T21:41:20Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>29</integer>
@@ -123121,21 +123123,21 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>oo6G1OM6</integer>
 			<key>Size</key><integer>9387828</integer>
-			<key>Total Time</key><integer>240706</integer>
+			<key>Total Time</key><integer>240707</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2020-05-13T12:15:09Z</date>
-			<key>Date Added</key><date>2020-05-13T12:15:09Z</date>
+			<key>Date Modified</key><date>2020-05-13T13:15:09Z</date>
+			<key>Date Added</key><date>2020-05-13T13:15:09Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
 			<key>Play Date</key><integer>3869810902</integer>
 			<key>Play Date UTC</key><date>2026-08-17T09:28:22Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2022-08-29T11:38:46Z</date>
+			<key>Skip Date</key><date>2022-08-29T12:38:46Z</date>
 			<key>Release Date</key><date>1996-09-19T07:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -126544,8 +126546,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2020</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:33Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:33Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:33Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -127468,8 +127470,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:28Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:28Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:28Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>8</integer>
@@ -127750,14 +127752,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>SmtGF82y</integer>
 			<key>Size</key><integer>13369900</integer>
-			<key>Total Time</key><integer>383187</integer>
+			<key>Total Time</key><integer>383188</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2023-03-06T10:01:36Z</date>
-			<key>Date Added</key><date>2023-03-06T10:01:36Z</date>
+			<key>Date Modified</key><date>2023-03-06T11:01:36Z</date>
+			<key>Date Added</key><date>2023-03-06T11:01:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -128256,8 +128258,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:33Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:33Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:33Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>10</integer>
@@ -128431,8 +128433,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:33Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:33Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:33Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>8</integer>
@@ -128788,8 +128790,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:34Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:34Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:34Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:34Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>9</integer>
@@ -128824,8 +128826,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:36Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:36Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:36Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>8</integer>
@@ -129003,8 +129005,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:36Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:36Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:36Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>9</integer>
@@ -129182,8 +129184,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:37Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:37Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:37Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>11</integer>
@@ -129217,8 +129219,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:37Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:37Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:37Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>8</integer>
@@ -130032,8 +130034,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:35Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:35Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:35Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -130489,8 +130491,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2025</integer>
-			<key>Date Modified</key><date>2025-11-14T12:28:16Z</date>
-			<key>Date Added</key><date>2025-11-14T12:28:16Z</date>
+			<key>Date Modified</key><date>2025-11-14T13:28:16Z</date>
+			<key>Date Added</key><date>2025-11-14T13:28:16Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -130988,8 +130990,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:37Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:37Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:37Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
@@ -131096,8 +131098,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:38Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:38Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:38Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -131132,8 +131134,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:38Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:38Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:38Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -131312,8 +131314,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:38Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:38Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:38Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
@@ -131348,8 +131350,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:38Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:38Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:38Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:38Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -131817,8 +131819,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2021</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:40Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:40Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:40Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:40Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -131885,14 +131887,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>IVA7b1fu</integer>
 			<key>Size</key><integer>6412474</integer>
-			<key>Total Time</key><integer>184685</integer>
+			<key>Total Time</key><integer>184686</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2022-04-06T10:17:42Z</date>
-			<key>Date Added</key><date>2022-04-06T10:17:42Z</date>
+			<key>Date Modified</key><date>2022-04-06T11:17:42Z</date>
+			<key>Date Added</key><date>2022-04-06T11:17:42Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>19</integer>
@@ -132424,14 +132426,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>VpOoNT68</integer>
 			<key>Size</key><integer>5396848</integer>
-			<key>Total Time</key><integer>150428</integer>
+			<key>Total Time</key><integer>150429</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2024-09-03T06:28:26Z</date>
-			<key>Date Added</key><date>2024-09-03T06:28:26Z</date>
+			<key>Date Modified</key><date>2024-09-03T07:28:26Z</date>
+			<key>Date Added</key><date>2024-09-03T07:28:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>10</integer>
@@ -132980,8 +132982,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>14</integer>
 			<key>Track Count</key><integer>47</integer>
 			<key>Year</key><integer>2023</integer>
-			<key>Date Modified</key><date>2024-11-04T15:27:52Z</date>
-			<key>Date Added</key><date>2024-11-04T15:27:52Z</date>
+			<key>Date Modified</key><date>2024-11-04T16:27:52Z</date>
+			<key>Date Added</key><date>2024-11-04T16:27:52Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Part Of Gapless Album</key><true/>
@@ -133599,6 +133601,43 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Sort Album</key><string>Diablo IV: Vessel of Hatred (Original Soundtrack)</string>
 			<key>Sort Artist</key><string>Ted Reedy</string>
 		</dict>
+		<key>5HSVIcRY</key>
+		<dict>
+			<key>Track ID</key><integer>5HSVIcRY</integer>
+			<key>Size</key><integer>6961051</integer>
+			<key>Total Time</key><integer>178520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>33</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-04T16:29:51Z</date>
+			<key>Date Added</key><date>2024-11-04T16:29:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3869300498</integer>
+			<key>Play Date UTC</key><date>2026-08-11T11:41:38Z</date>
+			<key>Release Date</key><date>2024-10-08T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D5F9D50C74935FA7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>Five Hills</string>
+			<key>Artist</key><string>Ted Reedy</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Ted Reedy</string>
+			<key>Album</key><string>Diablo IV: Vessel of Hatred (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>Five Hills</string>
+			<key>Sort Album</key><string>Diablo IV: Vessel of Hatred (Original Soundtrack)</string>
+			<key>Sort Artist</key><string>Ted Reedy</string>
+		</dict>
 		<key>ac3fpyWW</key>
 		<dict>
 			<key>Track ID</key><integer>ac3fpyWW</integer>
@@ -133708,43 +133747,6 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Kind</key><string>Apple Music AAC audio file</string>
 			<key>Sort Name</key><string>Prophecy</string>
 			<key>Sort Album</key><string>Diablo IV: Vessel of Hatred (Original Soundtrack)</string>
-			<key>Sort Artist</key><string>Ted Reedy</string>
-		</dict>
-		<key>5Jprk54h</key>
-		<dict>
-			<key>Track ID</key><integer>5Jprk54h</integer>
-			<key>Size</key><integer>6961051</integer>
-			<key>Total Time</key><integer>178520</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>23</integer>
-			<key>Track Count</key><integer>33</integer>
-			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2024-11-04T15:29:51Z</date>
-			<key>Date Added</key><date>2024-11-04T15:29:51Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Part Of Gapless Album</key><true/>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3869300498</integer>
-			<key>Play Date UTC</key><date>2026-08-11T11:41:38Z</date>
-			<key>Release Date</key><date>2024-10-08T12:00:00Z</date>
-			<key>Rating</key><integer>80</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Compilation</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D5F9D50C74935FA7</string>
-			<key>Track Type</key><string>Remote</string>
-			<key>Apple Music</key><true/>
-			<key>Name</key><string>Five Hills</string>
-			<key>Artist</key><string>Ted Reedy</string>
-			<key>Album Artist</key><string>Various Artists</string>
-			<key>Composer</key><string>Ted Reedy</string>
-			<key>Album</key><string>Diablo IV: Vessel of Hatred Official Soundtrack</string>
-			<key>Genre</key><string>Soundtrack</string>
-			<key>Kind</key><string>Apple Music AAC audio file</string>
-			<key>Sort Name</key><string>Five Hills</string>
-			<key>Sort Album</key><string>Diablo IV: Vessel of Hatred Official Soundtrack</string>
 			<key>Sort Artist</key><string>Ted Reedy</string>
 		</dict>
 		<key>G8cm4zfJ</key>
@@ -134395,13 +134397,13 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>yktIpvt8</integer>
 			<key>Size</key><integer>7801287</integer>
-			<key>Total Time</key><integer>325480</integer>
+			<key>Total Time</key><integer>325433</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2019-09-23T06:49:05Z</date>
-			<key>Date Added</key><date>2019-09-23T06:46:19Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2019-09-23T07:49:05Z</date>
+			<key>Date Added</key><date>2019-09-23T07:46:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>28</integer>
 			<key>Play Date</key><integer>3869909735</integer>
@@ -134506,7 +134508,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2026-01-09T07:55:43Z</date>
-			<key>Date Added</key><date>2019-09-23T06:46:19Z</date>
+			<key>Date Added</key><date>2019-09-23T07:46:19Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -134567,13 +134569,13 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>BGTwdXPN</integer>
 			<key>Size</key><integer>4477516</integer>
-			<key>Total Time</key><integer>272333</integer>
+			<key>Total Time</key><integer>272345</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2019-09-22T20:29:48Z</date>
-			<key>Date Added</key><date>2019-09-23T06:46:19Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2019-09-22T21:29:48Z</date>
+			<key>Date Added</key><date>2019-09-23T07:46:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>25</integer>
 			<key>Play Date</key><integer>3869301078</integer>
@@ -134723,14 +134725,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>XK7tsOoN</integer>
 			<key>Size</key><integer>9633610</integer>
-			<key>Total Time</key><integer>281746</integer>
+			<key>Total Time</key><integer>281747</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2020-11-03T16:03:08Z</date>
-			<key>Date Added</key><date>2020-11-03T16:03:08Z</date>
+			<key>Date Modified</key><date>2020-11-03T17:03:08Z</date>
+			<key>Date Added</key><date>2020-11-03T17:03:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -134801,8 +134803,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2020-11-03T16:03:08Z</date>
-			<key>Date Added</key><date>2020-11-03T16:03:08Z</date>
+			<key>Date Modified</key><date>2020-11-03T17:03:08Z</date>
+			<key>Date Added</key><date>2020-11-03T17:03:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>24</integer>
@@ -134945,8 +134947,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2020-11-03T16:03:08Z</date>
-			<key>Date Added</key><date>2020-11-03T16:03:08Z</date>
+			<key>Date Modified</key><date>2020-11-03T17:03:08Z</date>
+			<key>Date Added</key><date>2020-11-03T17:03:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>23</integer>
@@ -135580,8 +135582,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2020-11-05T14:04:20Z</date>
-			<key>Date Added</key><date>2020-11-05T14:04:20Z</date>
+			<key>Date Modified</key><date>2020-11-05T15:04:20Z</date>
+			<key>Date Added</key><date>2020-11-05T15:04:20Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -136562,8 +136564,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2020-11-05T15:22:14Z</date>
-			<key>Date Added</key><date>2020-11-05T15:22:14Z</date>
+			<key>Date Modified</key><date>2020-11-05T16:22:14Z</date>
+			<key>Date Added</key><date>2020-11-05T16:22:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>18</integer>
@@ -137734,14 +137736,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>pU0JxL8L</integer>
 			<key>Size</key><integer>8404500</integer>
-			<key>Total Time</key><integer>217764</integer>
+			<key>Total Time</key><integer>217765</integer>
 			<key>Disc Number</key><integer>4</integer>
 			<key>Disc Count</key><integer>4</integer>
 			<key>Track Number</key><integer>15</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2020-03-19T16:11:45Z</date>
-			<key>Date Added</key><date>2020-03-19T16:11:45Z</date>
+			<key>Date Modified</key><date>2020-03-19T17:11:45Z</date>
+			<key>Date Added</key><date>2020-03-19T17:11:45Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -137992,8 +137994,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>15</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2020-03-19T16:11:46Z</date>
-			<key>Date Added</key><date>2020-03-19T16:11:46Z</date>
+			<key>Date Modified</key><date>2020-03-19T17:11:46Z</date>
+			<key>Date Added</key><date>2020-03-19T17:11:46Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>25</integer>
@@ -138352,8 +138354,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>2024</integer>
-			<key>Date Modified</key><date>2024-10-30T11:01:34Z</date>
-			<key>Date Added</key><date>2024-10-30T11:01:34Z</date>
+			<key>Date Modified</key><date>2024-10-30T12:01:34Z</date>
+			<key>Date Added</key><date>2024-10-30T12:01:34Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>11</integer>
@@ -138935,12 +138937,12 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>bOx4ndhL</integer>
 			<key>Size</key><integer>14729074</integer>
-			<key>Total Time</key><integer>550653</integer>
+			<key>Total Time</key><integer>552751</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2018-04-30T07:45:10Z</date>
-			<key>Date Added</key><date>2018-04-30T07:51:40Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Date Modified</key><date>2018-04-30T08:45:10Z</date>
+			<key>Date Added</key><date>2018-04-30T08:51:40Z</date>
+			<key>Bit Rate</key><integer>213</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>33</integer>
 			<key>Play Date</key><integer>3869985796</integer>
@@ -141089,7 +141091,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Total Time</key><integer>387657</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Date Modified</key><date>2005-02-26T12:19:08Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>32</integer>
@@ -141556,8 +141558,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2021-04-12T07:45:14Z</date>
-			<key>Date Added</key><date>2021-04-12T07:45:14Z</date>
+			<key>Date Modified</key><date>2021-04-12T08:45:14Z</date>
+			<key>Date Added</key><date>2021-04-12T08:45:14Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -142817,7 +142819,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2007-05-13T00:08:17Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>29</integer>
@@ -142847,7 +142849,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2007-05-13T00:08:14Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Play Count</key><integer>33</integer>
@@ -146851,7 +146853,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2022-03-22T15:14:04Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>259</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>26</integer>
@@ -153741,7 +153743,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2022-11-09T08:41:57Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>32</integer>
@@ -158796,14 +158798,14 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>ppK8LWPc</integer>
 			<key>Size</key><integer>6770909</integer>
-			<key>Total Time</key><integer>189631</integer>
+			<key>Total Time</key><integer>189632</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2021-12-14T17:25:41Z</date>
-			<key>Date Added</key><date>2021-12-14T17:25:41Z</date>
+			<key>Date Modified</key><date>2021-12-14T18:25:41Z</date>
+			<key>Date Added</key><date>2021-12-14T18:25:41Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>21</integer>
@@ -159068,21 +159070,21 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>pD4ruNF7</integer>
 			<key>Size</key><integer>4806694</integer>
-			<key>Total Time</key><integer>126877</integer>
+			<key>Total Time</key><integer>126878</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2021-12-15T13:33:47Z</date>
-			<key>Date Added</key><date>2021-12-15T13:33:47Z</date>
+			<key>Date Modified</key><date>2021-12-15T14:33:47Z</date>
+			<key>Date Added</key><date>2021-12-15T14:33:47Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>20</integer>
 			<key>Play Date</key><integer>3869301579</integer>
 			<key>Play Date UTC</key><date>2026-08-11T11:59:39Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2025-06-22T13:50:02Z</date>
+			<key>Skip Date</key><date>2025-06-22T14:50:02Z</date>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -165008,7 +165010,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 			<key>Size</key><integer>3444131</integer>
 			<key>Total Time</key><integer>215248</integer>
 			<key>Date Modified</key><date>2024-06-24T11:58:45Z</date>
-			<key>Date Added</key><date>2014-11-26T11:46:41Z</date>
+			<key>Date Added</key><date>2014-11-26T12:46:41Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Volume Adjustment</key><integer>-122</integer>
@@ -173186,7 +173188,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>271JwDOl</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>QBdKyA9h</integer>
+					<key>Track ID</key><integer>SuzzwhzO</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>Tc9uEQlJ</integer>
@@ -175844,7 +175846,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>B7eLPd3y</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5Jprk54h</integer>
+					<key>Track ID</key><integer>5HSVIcRY</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>hUKtSgGC</integer>
@@ -192554,7 +192556,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>ORaobrNf</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>QBdKyA9h</integer>
+					<key>Track ID</key><integer>SuzzwhzO</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>Tc9uEQlJ</integer>
@@ -195218,7 +195220,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>B7eLPd3y</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5Jprk54h</integer>
+					<key>Track ID</key><integer>5HSVIcRY</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>1q4FqDFJ</integer>
@@ -214860,7 +214862,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>ORaobrNf</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>QBdKyA9h</integer>
+					<key>Track ID</key><integer>SuzzwhzO</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>Tc9uEQlJ</integer>
@@ -217365,7 +217367,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>B7eLPd3y</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5Jprk54h</integer>
+					<key>Track ID</key><integer>5HSVIcRY</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>1q4FqDFJ</integer>
@@ -226623,7 +226625,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>ORaobrNf</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>QBdKyA9h</integer>
+					<key>Track ID</key><integer>SuzzwhzO</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>Tc9uEQlJ</integer>
@@ -228519,7 +228521,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>B7eLPd3y</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5Jprk54h</integer>
+					<key>Track ID</key><integer>5HSVIcRY</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>1q4FqDFJ</integer>
@@ -242073,7 +242075,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>ORaobrNf</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>QBdKyA9h</integer>
+					<key>Track ID</key><integer>SuzzwhzO</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>Tc9uEQlJ</integer>
@@ -244548,7 +244550,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>B7eLPd3y</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5Jprk54h</integer>
+					<key>Track ID</key><integer>5HSVIcRY</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>1q4FqDFJ</integer>
