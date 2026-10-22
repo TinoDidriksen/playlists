@@ -5,7 +5,7 @@
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
 	<key>Application Version</key><string>12.13.11.1</string>
-	<key>Date</key><date>2026-10-19T15:10:27Z</date>
+	<key>Date</key><date>2026-10-20T20:01:26Z</date>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Library Persistent ID</key><string>B0FD39992206DAB6</string>
@@ -3297,8 +3297,8 @@
 		<key>zMkX3RyU</key>
 		<dict>
 			<key>Track ID</key><integer>zMkX3RyU</integer>
-			<key>Size</key><integer>7711612</integer>
-			<key>Total Time</key><integer>219281</integer>
+			<key>Size</key><integer>7775324</integer>
+			<key>Total Time</key><integer>219282</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -3371,8 +3371,8 @@
 		<key>2R0KvEZS</key>
 		<dict>
 			<key>Track ID</key><integer>2R0KvEZS</integer>
-			<key>Size</key><integer>9546287</integer>
-			<key>Total Time</key><integer>256818</integer>
+			<key>Size</key><integer>9603190</integer>
+			<key>Total Time</key><integer>256819</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -3407,7 +3407,7 @@
 		<key>I3bS8g9e</key>
 		<dict>
 			<key>Track ID</key><integer>I3bS8g9e</integer>
-			<key>Size</key><integer>3945103</integer>
+			<key>Size</key><integer>3968438</integer>
 			<key>Total Time</key><integer>100372</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -4732,7 +4732,7 @@
 		<key>oP2UYgGQ</key>
 		<dict>
 			<key>Track ID</key><integer>oP2UYgGQ</integer>
-			<key>Size</key><integer>9875595</integer>
+			<key>Size</key><integer>9875627</integer>
 			<key>Total Time</key><integer>272040</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -6705,7 +6705,7 @@
 		<dict>
 			<key>Track ID</key><integer>Uv9toDnH</integer>
 			<key>Size</key><integer>5925916</integer>
-			<key>Total Time</key><integer>182896</integer>
+			<key>Total Time</key><integer>182935</integer>
 			<key>Track Number</key><integer>20</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>Date Modified</key><date>2018-09-10T22:47:16Z</date>
@@ -15211,7 +15211,7 @@
 		<key>OQMLNlAm</key>
 		<dict>
 			<key>Track ID</key><integer>OQMLNlAm</integer>
-			<key>Size</key><integer>11603898</integer>
+			<key>Size</key><integer>11603627</integer>
 			<key>Total Time</key><integer>297320</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -17823,15 +17823,15 @@
 		<key>E79I5wuf</key>
 		<dict>
 			<key>Track ID</key><integer>E79I5wuf</integer>
-			<key>Size</key><integer>8580557</integer>
+			<key>Size</key><integer>8580775</integer>
 			<key>Total Time</key><integer>244000</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2023-03-07T14:27:59Z</date>
-			<key>Date Added</key><date>2023-03-07T14:27:59Z</date>
+			<key>Date Modified</key><date>2023-03-07T15:27:59Z</date>
+			<key>Date Added</key><date>2023-03-07T15:27:59Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>17</integer>
@@ -25514,7 +25514,7 @@
 		<dict>
 			<key>Track ID</key><integer>t8X6aMQY</integer>
 			<key>Size</key><integer>10954573</integer>
-			<key>Total Time</key><integer>312187</integer>
+			<key>Total Time</key><integer>312188</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -25550,7 +25550,7 @@
 		<dict>
 			<key>Track ID</key><integer>9F08SfTx</integer>
 			<key>Size</key><integer>11641340</integer>
-			<key>Total Time</key><integer>333933</integer>
+			<key>Total Time</key><integer>333934</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -29025,7 +29025,7 @@
 		<key>2FUtIdZN</key>
 		<dict>
 			<key>Track ID</key><integer>2FUtIdZN</integer>
-			<key>Size</key><integer>6425198</integer>
+			<key>Size</key><integer>6425275</integer>
 			<key>Total Time</key><integer>171997</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -35569,7 +35569,7 @@
 		<dict>
 			<key>Track ID</key><integer>rmlALD9n</integer>
 			<key>Size</key><integer>3834905</integer>
-			<key>Total Time</key><integer>98743</integer>
+			<key>Total Time</key><integer>98744</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -39795,13 +39795,13 @@
 		<dict>
 			<key>Track ID</key><integer>ZcrS1lF6</integer>
 			<key>Size</key><integer>12357632</integer>
-			<key>Total Time</key><integer>307986</integer>
+			<key>Total Time</key><integer>308062</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>Date Modified</key><date>2019-09-23T07:48:47Z</date>
 			<key>Date Added</key><date>2019-09-23T07:45:22Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>22</integer>
 			<key>Play Date</key><integer>3875125815</integer>
@@ -58063,7 +58063,7 @@
 		<dict>
 			<key>Track ID</key><integer>GI2lCp0K</integer>
 			<key>Size</key><integer>8619355</integer>
-			<key>Total Time</key><integer>235002</integer>
+			<key>Total Time</key><integer>235003</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>14</integer>
@@ -59862,7 +59862,7 @@
 		<key>KcPWcv5w</key>
 		<dict>
 			<key>Track ID</key><integer>KcPWcv5w</integer>
-			<key>Size</key><integer>6882205</integer>
+			<key>Size</key><integer>6882354</integer>
 			<key>Total Time</key><integer>182925</integer>
 			<key>Disc Number</key><integer>3</integer>
 			<key>Disc Count</key><integer>4</integer>
@@ -61054,8 +61054,8 @@
 		<key>fKQzg0cM</key>
 		<dict>
 			<key>Track ID</key><integer>fKQzg0cM</integer>
-			<key>Size</key><integer>10902588</integer>
-			<key>Total Time</key><integer>322153</integer>
+			<key>Size</key><integer>10902982</integer>
+			<key>Total Time</key><integer>322154</integer>
 			<key>Disc Number</key><integer>2</integer>
 			<key>Disc Count</key><integer>4</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -62386,7 +62386,7 @@
 		<dict>
 			<key>Track ID</key><integer>79RH7ecM</integer>
 			<key>Size</key><integer>11738977</integer>
-			<key>Total Time</key><integer>332906</integer>
+			<key>Total Time</key><integer>332907</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -67378,8 +67378,8 @@
 		<key>wAJZ9Rpf</key>
 		<dict>
 			<key>Track ID</key><integer>wAJZ9Rpf</integer>
-			<key>Size</key><integer>13891680</integer>
-			<key>Total Time</key><integer>402146</integer>
+			<key>Size</key><integer>13891721</integer>
+			<key>Total Time</key><integer>402147</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -70632,6 +70632,42 @@
 			<key>Sort Album</key><string>Rupture</string>
 			<key>Sort Artist</key><string>Lost In Kyiv</string>
 		</dict>
+		<key>AHoTb5LH</key>
+		<dict>
+			<key>Track ID</key><integer>AHoTb5LH</integer>
+			<key>Size</key><integer>14138419</integer>
+			<key>Total Time</key><integer>409000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-07T11:32:01Z</date>
+			<key>Date Added</key><date>2022-11-07T11:32:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3875125507</integer>
+			<key>Play Date UTC</key><date>2026-10-17T21:45:07Z</date>
+			<key>Release Date</key><date>2022-10-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F36B57D5F02542AD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>We Are</string>
+			<key>Artist</key><string>Lost In Kyiv</string>
+			<key>Album Artist</key><string>Lost In Kyiv</string>
+			<key>Composer</key><string>Yoann Vermeulen, Maxime Ingrand, Dimitri Denat &#38; Jean-Christophe Condette</string>
+			<key>Album</key><string>Rupture</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>We Are</string>
+			<key>Sort Album</key><string>Rupture</string>
+			<key>Sort Artist</key><string>Lost In Kyiv</string>
+		</dict>
 		<key>lBwxMkJw</key>
 		<dict>
 			<key>Track ID</key><integer>lBwxMkJw</integer>
@@ -70807,42 +70843,6 @@
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Apple Music AAC audio file</string>
 			<key>Sort Name</key><string>Squaring the Circle</string>
-			<key>Sort Album</key><string>Rupture</string>
-			<key>Sort Artist</key><string>Lost in Kiev</string>
-		</dict>
-		<key>Q8PaAsbd</key>
-		<dict>
-			<key>Track ID</key><integer>Q8PaAsbd</integer>
-			<key>Size</key><integer>14138419</integer>
-			<key>Total Time</key><integer>409000</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>9</integer>
-			<key>Year</key><integer>2022</integer>
-			<key>Date Modified</key><date>2022-11-07T11:32:01Z</date>
-			<key>Date Added</key><date>2022-11-07T11:32:01Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>18</integer>
-			<key>Play Date</key><integer>3875125507</integer>
-			<key>Play Date UTC</key><date>2026-10-17T21:45:07Z</date>
-			<key>Release Date</key><date>2022-10-21T12:00:00Z</date>
-			<key>Rating</key><integer>80</integer>
-			<key>Rating Computed</key><true/>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F36B57D5F02542AD</string>
-			<key>Track Type</key><string>Remote</string>
-			<key>Apple Music</key><true/>
-			<key>Name</key><string>We Are</string>
-			<key>Artist</key><string>Lost in Kiev</string>
-			<key>Album Artist</key><string>Lost in Kiev</string>
-			<key>Composer</key><string>Yoann Vermeulen, Maxime Ingrand, Dimitri Denat &#38; Jean-Christophe Condette</string>
-			<key>Album</key><string>Rupture</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>Apple Music AAC audio file</string>
-			<key>Sort Name</key><string>We Are</string>
 			<key>Sort Album</key><string>Rupture</string>
 			<key>Sort Artist</key><string>Lost in Kiev</string>
 		</dict>
@@ -78336,7 +78336,7 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 		<dict>
 			<key>Track ID</key><integer>Z6qMKk7D</integer>
 			<key>Size</key><integer>10338653</integer>
-			<key>Total Time</key><integer>259146</integer>
+			<key>Total Time</key><integer>259147</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -82114,8 +82114,8 @@ Symphony Orchestra conducted by Kirk Trevor</string>
 		<key>HmxgmybT</key>
 		<dict>
 			<key>Track ID</key><integer>HmxgmybT</integer>
-			<key>Size</key><integer>12735278</integer>
-			<key>Total Time</key><integer>342437</integer>
+			<key>Size</key><integer>12854409</integer>
+			<key>Total Time</key><integer>342438</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>2</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -100445,15 +100445,15 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>BrNVUaZf</key>
 		<dict>
 			<key>Track ID</key><integer>BrNVUaZf</integer>
-			<key>Size</key><integer>13299700</integer>
+			<key>Size</key><integer>13438664</integer>
 			<key>Total Time</key><integer>400500</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>23</integer>
 			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2020-01-06T10:37:12Z</date>
-			<key>Date Added</key><date>2020-01-06T10:37:12Z</date>
+			<key>Date Modified</key><date>2020-01-06T11:37:12Z</date>
+			<key>Date Added</key><date>2020-01-06T11:37:12Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>27</integer>
@@ -100622,8 +100622,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>DzDeL5Ju</key>
 		<dict>
 			<key>Track ID</key><integer>DzDeL5Ju</integer>
-			<key>Size</key><integer>11769440</integer>
-			<key>Total Time</key><integer>347076</integer>
+			<key>Size</key><integer>11890068</integer>
+			<key>Total Time</key><integer>347077</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>13</integer>
@@ -107238,8 +107238,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>vVRVnQfq</key>
 		<dict>
 			<key>Track ID</key><integer>vVRVnQfq</integer>
-			<key>Size</key><integer>5393528</integer>
-			<key>Total Time</key><integer>149186</integer>
+			<key>Size</key><integer>5393751</integer>
+			<key>Total Time</key><integer>149187</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>89</integer>
@@ -107346,7 +107346,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>0B6sjYmv</key>
 		<dict>
 			<key>Track ID</key><integer>0B6sjYmv</integer>
-			<key>Size</key><integer>4428471</integer>
+			<key>Size</key><integer>4428497</integer>
 			<key>Total Time</key><integer>123080</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -108340,8 +108340,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>xR2uuVot</key>
 		<dict>
 			<key>Track ID</key><integer>xR2uuVot</integer>
-			<key>Size</key><integer>4444656</integer>
-			<key>Total Time</key><integer>119346</integer>
+			<key>Size</key><integer>4444660</integer>
+			<key>Total Time</key><integer>119347</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>113</integer>
@@ -109742,7 +109742,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>YnvOCBNx</key>
 		<dict>
 			<key>Track ID</key><integer>YnvOCBNx</integer>
-			<key>Size</key><integer>6741567</integer>
+			<key>Size</key><integer>6741514</integer>
 			<key>Total Time</key><integer>187240</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -110631,7 +110631,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>Me5vnhRT</integer>
 			<key>Size</key><integer>8208830</integer>
-			<key>Total Time</key><integer>234339</integer>
+			<key>Total Time</key><integer>234340</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -113992,8 +113992,8 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>E0NvQbgX</key>
 		<dict>
 			<key>Track ID</key><integer>E0NvQbgX</integer>
-			<key>Size</key><integer>6707195</integer>
-			<key>Total Time</key><integer>186215</integer>
+			<key>Size</key><integer>6772395</integer>
+			<key>Total Time</key><integer>186216</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -118058,7 +118058,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>f4adwIah</key>
 		<dict>
 			<key>Track ID</key><integer>f4adwIah</integer>
-			<key>Size</key><integer>5901351</integer>
+			<key>Size</key><integer>5960653</integer>
 			<key>Total Time</key><integer>168111</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -121655,7 +121655,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>OVxnkNUg</integer>
 			<key>Size</key><integer>3416808</integer>
-			<key>Total Time</key><integer>87307</integer>
+			<key>Total Time</key><integer>87308</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -127822,7 +127822,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>tWew6NzM</integer>
 			<key>Size</key><integer>7215911</integer>
-			<key>Total Time</key><integer>199384</integer>
+			<key>Total Time</key><integer>199385</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -128286,7 +128286,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>gqMyeSZs</integer>
 			<key>Size</key><integer>11130732</integer>
-			<key>Total Time</key><integer>326434</integer>
+			<key>Total Time</key><integer>326435</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -129775,7 +129775,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>YQtd14kL</integer>
 			<key>Size</key><integer>6602696</integer>
-			<key>Total Time</key><integer>182159</integer>
+			<key>Total Time</key><integer>182160</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -130098,7 +130098,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>zJJA4Tvh</integer>
 			<key>Size</key><integer>4464671</integer>
-			<key>Total Time</key><integer>120032</integer>
+			<key>Total Time</key><integer>120033</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -131233,7 +131233,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>ToDFZD4g</key>
 		<dict>
 			<key>Track ID</key><integer>ToDFZD4g</integer>
-			<key>Size</key><integer>6938827</integer>
+			<key>Size</key><integer>7003599</integer>
 			<key>Total Time</key><integer>198034</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -134830,7 +134830,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>ee4PGhGh</key>
 		<dict>
 			<key>Track ID</key><integer>ee4PGhGh</integer>
-			<key>Size</key><integer>1548679</integer>
+			<key>Size</key><integer>1561604</integer>
 			<key>Total Time</key><integer>33333</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -138744,7 +138744,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<key>agzfgJPA</key>
 		<dict>
 			<key>Track ID</key><integer>agzfgJPA</integer>
-			<key>Size</key><integer>9577988</integer>
+			<key>Size</key><integer>9675121</integer>
 			<key>Total Time</key><integer>260173</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -139023,12 +139023,12 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 		<dict>
 			<key>Track ID</key><integer>JsN6aime</integer>
 			<key>Size</key><integer>9600021</integer>
-			<key>Total Time</key><integer>339600</integer>
+			<key>Total Time</key><integer>341681</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-04-30T08:45:10Z</date>
 			<key>Date Added</key><date>2018-04-30T07:51:40Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Bit Rate</key><integer>224</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>34</integer>
 			<key>Play Date</key><integer>3875123608</integer>
@@ -174721,7 +174721,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>pTLQLpUO</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>Q8PaAsbd</integer>
+					<key>Track ID</key><integer>AHoTb5LH</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>GS1Ic0Xt</integer>
@@ -194092,7 +194092,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>pTLQLpUO</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>Q8PaAsbd</integer>
+					<key>Track ID</key><integer>AHoTb5LH</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>GS1Ic0Xt</integer>
@@ -216383,7 +216383,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>G2ed5dl6</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>Q8PaAsbd</integer>
+					<key>Track ID</key><integer>AHoTb5LH</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>GS1Ic0Xt</integer>
@@ -227867,7 +227867,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>G2ed5dl6</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>Q8PaAsbd</integer>
+					<key>Track ID</key><integer>AHoTb5LH</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>GS1Ic0Xt</integer>
@@ -243554,7 +243554,7 @@ Parameters: -S --noreplaygain --preset insane - %d</string>
 					<key>Track ID</key><integer>pTLQLpUO</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>Q8PaAsbd</integer>
+					<key>Track ID</key><integer>AHoTb5LH</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>GS1Ic0Xt</integer>
